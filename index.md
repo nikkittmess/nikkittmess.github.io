@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## SOCIALS
 
-<i class="fab fa-instagram"></i>
+<button style="font-size:24px">Button <i class="fa fa-github"></i></button>
 
 
 
