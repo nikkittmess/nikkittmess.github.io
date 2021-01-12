@@ -1,5 +1,5 @@
 .sm_icon{
  
-  width: 50px;
+  width: 500px;
   /* the height is adjusted automatically*/
 }
