@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <a target="_blank" href="https://www.instagram.com/nikkitt_mesily/">
  <img src="instagram.png">
 </a>
-
+<img class=“sm_icon“ src="instagram.png">
 
 
 ### Markdown
