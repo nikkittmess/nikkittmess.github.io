@@ -4,6 +4,12 @@ You can use the [editor on GitHub](https://github.com/nikkittmess/nikkittmess.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## SOCIALS
+<a target="_blank" href="https://www.instagram.com/nikkitt_mesily/">
+ <img src="instagram.png">
+</a>
+
+
 
 ### Markdown
 
