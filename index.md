@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## SOCIALS
 <a target="_blank" href="https://www.instagram.com/nikkitt_mesily/">
- <img src="instagram.png">
+ <img src="instagram.jpg">
 </a>
 
 
