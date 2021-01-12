@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## SOCIALS
 
-follow me on [instagram](https://www.instagram.com/nikkitt_mesily/). and  [twitter](https://twitter.com/nikkitt_mesily).
+follow me on [instagram](https://www.instagram.com/nikkitt_mesily/) and  [twitter](https://twitter.com/nikkitt_mesily).
 
 subscribe to my [youtube channel](https://www.youtube.com/channel/UCWnyFD9BaAYa30rz-XVn10Q).
 
