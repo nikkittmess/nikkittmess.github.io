@@ -45,7 +45,7 @@ subscribe to my [youtube channel](https://www.youtube.com/channel/UCWnyFD9BaAYa3
 <h2></h2>
 
 <!-- Add font awesome icons -->
-<a href="#" class="fa fa-instagram"></a>
+<a href="https://www.instagram.com/nikkitt_mesily" class="fa fa-instagram"></a>
 
 </body>
 </html> 
