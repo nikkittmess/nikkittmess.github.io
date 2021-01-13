@@ -26,11 +26,23 @@ subscribe to my [youtube channel](https://www.youtube.com/channel/UCWnyFD9BaAYa3
   text-align: center;
   text-decoration: none;
   margin: 5px 2px;
-  }
-  .fa:hover {
+}
+
+.fa:hover {
     opacity: 0.7;
 }
-  .fa-instagram {
+.fa-instagram {
   background: #125688;
   color: white;
 }
+</style>
+</head>
+<body>
+
+<h2>Style Social Media Buttons</h2>
+
+<!-- Add font awesome icons -->
+<a href="#" class="fa fa-instagram"></a>
+
+</body>
+</html> 
