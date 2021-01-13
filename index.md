@@ -42,6 +42,11 @@ You can use the [editor on GitHub](https://github.com/nikkittmess/nikkittmess.gi
   background: #ff5700;
   color: white;
 }
+.fa-tumblr {
+  background: #2c4762;
+  color: white;
+}
+
 </style>
 </head>
 <body>
@@ -53,5 +58,6 @@ You can use the [editor on GitHub](https://github.com/nikkittmess/nikkittmess.gi
 <a href="https://twitter.com/nikkitt_mesily" class="fa fa-twitter"></a>
 <a href="https://www.youtube.com/channel/UCWnyFD9BaAYa30rz-XVn10Q" class="fa fa-youtube"></a>
 <a href="https://www.reddit.com/user/MESSboi783/" class="fa fa-reddit"></a>
+<a href="https://www.tumblr.com/blog/view/generousgalaxychaos" class="fa fa-tumblr"></a>
 </body>
 </html> 
