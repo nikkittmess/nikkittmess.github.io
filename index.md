@@ -11,7 +11,7 @@ subscribe to my [youtube channel](https://www.youtube.com/channel/UCWnyFD9BaAYa3
 
 # BUTTON TESTING 
 
-<button type="button">Click Me!< /button>
+<button type="button">Click Me!</button>
 
 
 <html>
