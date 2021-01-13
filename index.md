@@ -24,7 +24,7 @@ subscribe to my [youtube channel](https://www.youtube.com/channel/UCWnyFD9BaAYa3
   font-size: 30px;
   width: 100px;
   
-  border-radius: 25%;
+  border-radius: 75%;
   text-align: center;
   text-decoration: none;
   margin: 2px 2px;
