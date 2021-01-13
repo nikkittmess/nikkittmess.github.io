@@ -22,10 +22,10 @@ subscribe to my [youtube channel](https://www.youtube.com/channel/UCWnyFD9BaAYa3
 .fa {
   padding: 20px;
   font-size: 30px;
-  width: 50px;
+  width: 100px;
   text-align: center;
   text-decoration: none;
-  margin: 10px 2px;
+  margin: 5px 2px;
 }
 
 .fa:hover {
