@@ -34,7 +34,7 @@ subscribe to my [youtube channel](https://www.youtube.com/channel/UCWnyFD9BaAYa3
 .fa-instagram {
   background: #125688;
   color: white;
-  href="https://www.instagram.com/nikkitt_mesily".;
+  href="https://www.instagram.com/nikkitt_mesily";
 }
 </style>
 </head>
