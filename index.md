@@ -23,7 +23,7 @@ subscribe to my [youtube channel](https://www.youtube.com/channel/UCWnyFD9BaAYa3
   padding: 20px;
   font-size: 30px;
   width: 100px;
-  height: 50px;
+  
   border-radius: 50%;
   text-align: center;
   text-decoration: none;
