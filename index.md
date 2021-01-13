@@ -24,7 +24,7 @@ subscribe to my [youtube channel](https://www.youtube.com/channel/UCWnyFD9BaAYa3
   font-size: 30px;
   width: 100px;
   
-  border-radius: 75%;
+  border-radius: 50%;
   text-align: center;
   text-decoration: none;
   margin: 2px 2px;
@@ -38,6 +38,18 @@ subscribe to my [youtube channel](https://www.youtube.com/channel/UCWnyFD9BaAYa3
   color: white;
   
 }
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+.fa-reddit {
+  background: #ff5700;
+  color: white;
+}
 </style>
 </head>
 <body>
@@ -46,6 +58,8 @@ subscribe to my [youtube channel](https://www.youtube.com/channel/UCWnyFD9BaAYa3
 
 <!-- Add font awesome icons -->
 <a href="https://www.instagram.com/nikkitt_mesily" class="fa fa-instagram"></a>
-
+<a href="https://twitter.com/nikkitt_mesily" class="fa fa-twitter"></a>
+<a href="https://www.youtube.com/channel/UCWnyFD9BaAYa30rz-XVn10Q" class="fa fa-youtube"></a>
+<a href="https://www.reddit.com/user/MESSboi783/" class="fa fa-reddit"></a>
 </body>
 </html> 
