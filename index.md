@@ -39,7 +39,7 @@ subscribe to my [youtube channel](https://www.youtube.com/channel/UCWnyFD9BaAYa3
 </head>
 <body>
 
-<h2>Style Social Media Buttons</h2>
+<h2></h2>
 
 <!-- Add font awesome icons -->
 <a href="#" class="fa fa-instagram"></a>
