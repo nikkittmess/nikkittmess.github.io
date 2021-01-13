@@ -25,7 +25,7 @@ subscribe to my [youtube channel](https://www.youtube.com/channel/UCWnyFD9BaAYa3
   width: 50px;
   text-align: center;
   text-decoration: none;
-  margin: 2px 2px;
+  margin: 10px 2px;
 }
 
 .fa:hover {
