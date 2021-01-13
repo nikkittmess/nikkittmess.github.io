@@ -32,9 +32,9 @@ subscribe to my [youtube channel](https://www.youtube.com/channel/UCWnyFD9BaAYa3
     opacity: 0.7;
 }
 .fa-instagram {
-  background: #125688;
+  background: #e00b6b;
   color: white;
-  href="https://www.instagram.com/nikkitt_mesily";
+  
 }
 </style>
 </head>
