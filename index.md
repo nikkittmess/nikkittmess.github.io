@@ -1,5 +1,4 @@
-<img src="https://images.app.goo.gl/P64SskcjtntSUqXg7" alt="" width="500" height="600">
-## THIS IS THE OFFICIAL WEBSITE OF NIKKITT
+## WEBSITE MADE BY NIKKITT
 # SOCIALS
 
 ## Please follow and like my content 
