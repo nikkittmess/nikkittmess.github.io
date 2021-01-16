@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html>
-   <head>
-      <title></title>
-   </head>
-
-   <body>
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbuiltin.com%2Fmedia-gaming%2Fgaming-companies&psig=AOvVaw3d8tSKP1GC-iQHqZnVxOtg&ust=1610882777795000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjf6KesoO4CFQAAAAAdAAAAABAD" alt="Simply Easy Learning" width="200"
-         height="80">
-   </body>
-</html>
-
+<img src="instagram.jpg" alt="instagram" width="500" height="600">
 ## THIS IS THE OFFICIAL WEBSITE OF NIKKITT
 # SOCIALS
 
