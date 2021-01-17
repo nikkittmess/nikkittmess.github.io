@@ -57,7 +57,7 @@
 <a href="https://www.tumblr.com/blog/view/generousgalaxychaos" class="fa fa-tumblr"></a>
 </body>
 </html> 
-also follow me on [Twitch](https://www.twitch.tv/mess783).
+## also follow me on [Twitch](https://www.twitch.tv/mess783).
 ## MY VIDEOS
 ### PLEASE LIKE AND SHARE 
 
