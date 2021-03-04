@@ -58,7 +58,7 @@
 </body>
 </html> 
 ## Please follow me on [Twitch](https://www.twitch.tv/mess783)  and also check out some of the pictures i clicked on [VSCO](http://vsco.co/nikkitt-).
-####if you are watching this ,you are a real one:)
+if you are watching this ,you are a real one:)
 ## MY VIDEOS
 ### PLEASE LIKE AND SHARE 
 
