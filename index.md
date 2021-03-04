@@ -1,4 +1,4 @@
-## WEBSITE MADE BY NIKKITT
+## NIKKITT'S WEBSITE 
 # SOCIALS
 
 ## Please follow and like my content 
@@ -57,7 +57,8 @@
 <a href="https://www.tumblr.com/blog/view/generousgalaxychaos" class="fa fa-tumblr"></a>
 </body>
 </html> 
-## also follow me on [Twitch](https://www.twitch.tv/mess783).
+## Please follow me on [Twitch](https://www.twitch.tv/mess783)  and also check out some of the pictures i clicked on [VSCO](http://vsco.co/nikkitt-).
+####if you are watching this ,you are a real one:)
 ## MY VIDEOS
 ### PLEASE LIKE AND SHARE 
 
