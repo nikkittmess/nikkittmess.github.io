@@ -63,7 +63,7 @@
    <head>
       <title>HTML img Tag</title>
    </head>
-   <body>
+   </body>
      <a href="http://vsco.co/nikkitt-">
       <img alt="VSCO" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhypebeast.com%2F2020%2F2%2Fvsco-expands-video-editing-[main.txt.txt](https://github.com/nikkittmess/nikkittmess.github.io/files/6108770/main.txt.txt)
            publishing&psig=AOvVaw3t_Gd076imCicjqFo7fvzb&ust=1615381921446000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjr2eCko-8CFQAAAAAdAAAAABAD"
