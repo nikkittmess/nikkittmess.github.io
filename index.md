@@ -64,7 +64,7 @@
       <title>HTML Image as link</title>
    </head>
    <body>
-      The following image works as a link:<br>
+      VSCO:<br>
       <a href="http://vsco.co/nikkitt-">
          <img alt="VSCO" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhypebeast.com%2F2020%2F2%2Fvsco-expands-video-editing-publishing&psig=AOvVaw2BT9N9F1Qe24nwZHCJTOw4&ust=1615383023538000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKC-3Oyoo-8CFQAAAAAdAAAAABAD"
          width="200" height="80">
