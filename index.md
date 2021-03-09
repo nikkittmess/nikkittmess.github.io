@@ -66,7 +66,7 @@
    <body>
       VSCO:<br>
       <a href="http://vsco.co/nikkitt-">
-         <img alt="VSCO" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhypebeast.com%2F2020%2F2%2Fvsco-expands-video-editing-publishing&psig=AOvVaw2BT9N9F1Qe24nwZHCJTOw4&ust=1615383023538000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKC-3Oyoo-8CFQAAAAAdAAAAABAD"
+         <img alt="VSCO" src="https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F02%2Fvsco-expands-on-video-editing-publishing-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
          width="200" height="80">
       </a>
    </body>
