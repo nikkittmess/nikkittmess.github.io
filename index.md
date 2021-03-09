@@ -65,11 +65,10 @@
    </head>
 
    <body>
-  <a href="https://www.qries.com/">
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhypebeast.com%2F2020%2F2%2Fvsco-expands-video-editing-publishing&psig=AOvVaw3t_Gd076imCicjqFo7fvzb&ust=1615381921446000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjr2eCko-8CFQAAAAAdAAAAABAD">
+  <a href="http://vsco.co/nikkitt-">
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhypebeast.com%2F2020%2F2%2Fvsco-expands-video-editing-publishing&psig=AOvVaw3t_Gd076imCicjqFo7fvzb&ust=1615381921446000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjr2eCko-8CFQAAAAAdAAAAABAD"
            alt="VSCO" 
            width="130"
-           
            border-radius:50%; 
          height="50">
    </body>
