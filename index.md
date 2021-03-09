@@ -61,15 +61,14 @@
 ## EDITED PART FROM HERE
 <html>
    <head>
-      <title>HTML img Tag</title>
+      <title>HTML Image as link</title>
    </head>
-   </body>
-     <a href="http://vsco.co/nikkitt-">
-      <img alt="VSCO" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhypebeast.com%2F2020%2F2%2Fvsco-expands-video-editing-[main.txt.txt](https://github.com/nikkittmess/nikkittmess.github.io/files/6108770/main.txt.txt)
-           publishing&psig=AOvVaw3t_Gd076imCicjqFo7fvzb&ust=1615381921446000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjr2eCko-8CFQAAAAAdAAAAABAD"
-           width="130"
-           border-radius:"50%" 
-         height="50">
+   <body>
+      The following image works as a link:<br>
+      <a href="http://vsco.co/nikkitt-">
+         <img alt="VSCO" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhypebeast.com%2F2020%2F2%2Fvsco-expands-video-editing-publishing&psig=AOvVaw2BT9N9F1Qe24nwZHCJTOw4&ust=1615383023538000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKC-3Oyoo-8CFQAAAAAdAAAAABAD"
+         width="150" height="70">
+      </a>
    </body>
 </html>
 ## EDITED PART TILL HERE
