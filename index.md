@@ -58,7 +58,7 @@
 </body>
 </html>
 
-##EDITED PART FROM HERE
+## EDITED PART FROM HERE
 <html>
    <head>
       <title>HTML img Tag</title>
@@ -73,7 +73,7 @@
          height="50">
    </body>
 </html>
-##EDITED PART TILL HERE
+## EDITED PART TILL HERE
 ## Please follow me on [Twitch](https://www.twitch.tv/mess783)  and also check out some of the pictures i clicked on [VSCO](http://vsco.co/nikkitt-).
 if you are watching this ,you are a real one:)
 ## MY VIDEOS
