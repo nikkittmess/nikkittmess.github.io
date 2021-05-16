@@ -34,10 +34,6 @@
   background: #bb0000;
   color: white;
 }
-.fa-reddit {
-  background: #ff5700;
-  color: white;
-}
 .fa-tumblr {
   background: #2c4762;
   color: white;
@@ -53,7 +49,6 @@
 <a href="https://www.instagram.com/nikkitt_mesily" class="fa fa-instagram"></a>
 <a href="https://twitter.com/nikkitt_mesily" class="fa fa-twitter"></a>
 <a href="https://www.youtube.com/channel/UCWnyFD9BaAYa30rz-XVn10Q" class="fa fa-youtube"></a>
-<a href="https://www.reddit.com/user/MESSboi783/" class="fa fa-reddit"></a>
 <a href="https://www.tumblr.com/blog/view/generousgalaxychaos" class="fa fa-tumblr"></a>
 </body>
 </html>
