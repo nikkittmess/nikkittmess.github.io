@@ -59,7 +59,7 @@
       <title>HTML Image as link</title>
    </head>
    <body>
-      VSCO:<br>
+      <br>
       <a href="http://vsco.co/nikkitt-">
          <img alt="VSCO" src="https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F02%2Fvsco-expands-on-video-editing-publishing-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
          width="140" height="80">
