@@ -75,7 +75,7 @@
       <br>
       <a href="https://github.com/nikkittmess/">
          <img alt="GITHUB" src="https://mpng.subpng.com/20180326/gxq/kisspng-github-computer-icons-icon-design-github-5ab8a31e334e73.4114704215220498222102.jpg"
-         width="140" height="80">
+         width="100" height="70">
       </a>
    </body>
 </html>
@@ -88,7 +88,7 @@
       <br>
       <a href="https://www.twitch.tv/mess783">
          <img alt="TWITCH" src="https://www.vhv.rs/dpng/d/405-4055346_twitch-logo-png-transparent-background-twitch-logo-png.png"
-         width="140" height="80">
+         width="100" height="70">
       </a>
    </body>
 </html>
