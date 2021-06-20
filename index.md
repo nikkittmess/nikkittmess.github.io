@@ -61,8 +61,8 @@
    <body>
       <br>
       <a href="http://vsco.co/nikkitt-">
-         <img alt="VSCO" src="https://icon2.cleanpng.com/20180526/sgj/kisspng-vsco-camera-photography-android-5b08fb3c4db649.8084313115273152603183.jpg"
-         width="140" height="80">
+         <img alt="VSCO" src="https://2.bp.blogspot.com/-YCK9FuHZrc8/XJP1dIZkouI/AAAAAAAAJR8/jyKxVln7xRcfwHTrBV7hhY0I6Fd1DbEGwCK4BGAYYCw/s1600/logo%2Bvsco%2Bicon%2B.png"
+         width="140" height="80" margin:2px>
       </a>
    </body>
 </html>
