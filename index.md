@@ -61,7 +61,7 @@
    <body>
       <br>
       <a href="http://vsco.co/nikkitt-">
-         <img alt="VSCO" src="https://img.pngio.com/png-download-614614-free-transparent-vsco-png-download-vsco-png-900_620.jpg"
+         <img alt="VSCO" src="https://icon2.cleanpng.com/20180526/sgj/kisspng-vsco-camera-photography-android-5b08fb3c4db649.8084313115273152603183.jpg"
          width="140" height="80">
       </a>
    </body>
@@ -74,7 +74,7 @@
    <body>
       <br>
       <a href="https://github.com/nikkittmess/">
-         <img alt="GITHUB" src="https://www.pngix.com/pngfile/middle/94-945680_github-logo-official-github-log-hd-png-download.png"
+         <img alt="GITHUB" src="https://mpng.subpng.com/20180326/gxq/kisspng-github-computer-icons-icon-design-github-5ab8a31e334e73.4114704215220498222102.jpg"
          width="140" height="80">
       </a>
    </body>
@@ -87,7 +87,7 @@
    <body>
       <br>
       <a href="https://www.twitch.tv/mess783">
-         <img alt="TWITCH" src="https://www.pngjoy.com/pngm/272/5204489_twitch-logo-transparent-twitch-logo-png-hd-png.png"
+         <img alt="TWITCH" src="https://www.vhv.rs/dpng/d/405-4055346_twitch-logo-png-transparent-background-twitch-logo-png.png"
          width="140" height="80">
       </a>
    </body>
