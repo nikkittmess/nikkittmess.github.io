@@ -61,14 +61,40 @@
    <body>
       <br>
       <a href="http://vsco.co/nikkitt-">
-         <img alt="VSCO" src="https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F02%2Fvsco-expands-on-video-editing-publishing-001.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
+         <img alt="VSCO" src="https://img.pngio.com/png-download-614614-free-transparent-vsco-png-download-vsco-png-900_620.jpg"
+         width="140" height="80">
+      </a>
+   </body>
+</html>
+
+<html>
+   <head>
+      <title>HTML Image as link</title>
+   </head>
+   <body>
+      <br>
+      <a href="https://github.com/nikkittmess/">
+         <img alt="GITHUB" src="https://www.pngix.com/pngfile/middle/94-945680_github-logo-official-github-log-hd-png-download.png"
+         width="140" height="80">
+      </a>
+   </body>
+</html>
+
+<html>
+   <head>
+      <title>HTML Image as link</title>
+   </head>
+   <body>
+      <br>
+      <a href="https://www.twitch.tv/mess783">
+         <img alt="TWITCH" src="https://www.pngjoy.com/pngm/272/5204489_twitch-logo-transparent-twitch-logo-png-hd-png.png"
          width="140" height="80">
       </a>
    </body>
 </html>
 
 
-## Please follow me on [Twitch](https://www.twitch.tv/mess783)  and also check out some of the pictures i clicked on [VSCO](http://vsco.co/nikkitt-).
+
 if you are watching this ,you are a real one:)
 ## MY VIDEOS
 ### PLEASE LIKE AND SHARE 
