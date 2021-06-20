@@ -62,7 +62,7 @@
       <br>
       <a href="http://vsco.co/nikkitt-">
          <img alt="VSCO" src="https://2.bp.blogspot.com/-YCK9FuHZrc8/XJP1dIZkouI/AAAAAAAAJR8/jyKxVln7xRcfwHTrBV7hhY0I6Fd1DbEGwCK4BGAYYCw/s1600/logo%2Bvsco%2Bicon%2B.png"
-         width="140" height="80">
+         width="100" height="60">
       </a>
    </body>
 </html>
@@ -74,7 +74,7 @@
    <body>
       <br>
       <a href="https://github.com/nikkittmess/">
-         <img alt="GITHUB" src="https://mpng.subpng.com/20180326/gxq/kisspng-github-computer-icons-icon-design-github-5ab8a31e334e73.4114704215220498222102.jpg"
+         <img alt="GITHUB" src="https://cdn.icon-icons.com/icons2/2368/PNG/512/github_logo_icon_143772.png"
          width="100" height="70">
       </a>
    </body>
@@ -87,7 +87,7 @@
    <body>
       <br>
       <a href="https://www.twitch.tv/mess783">
-         <img alt="TWITCH" src="https://www.vhv.rs/dpng/d/405-4055346_twitch-logo-png-transparent-background-twitch-logo-png.png"
+         <img alt="TWITCH" src="https://www.citypng.com/public/uploads/preview/-516097943867gafscmnfb.png"
          width="100" height="70">
       </a>
    </body>
