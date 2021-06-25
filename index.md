@@ -1,6 +1,18 @@
 ## NIKKITT'S WEBSITE 
 # SOCIALS
 
+html {
+  background: url(https://images.wallpapersden.com/image/download/cool-4k-pattern_bGduZWyUmZqaraWkpJRobWllrWdma2U.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
+
+
+
+
+
 ## Please follow and like my content 
 <html>
 <head>
