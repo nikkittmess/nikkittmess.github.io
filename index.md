@@ -56,7 +56,7 @@
 
 <html>
    <head>
-      <title>HTML Image as link</title>
+      <title>OTHERS</title>
    </head>
    <body>
       <br>
