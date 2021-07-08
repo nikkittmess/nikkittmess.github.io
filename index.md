@@ -70,7 +70,7 @@
       <img alt="TWITCH" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f1d8f334-66f0-4316-96f2-b9958b7a64c4/de2odrs-e96349ea-087a-4d41-bbe1-160a0a056f4b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2YxZDhmMzM0LTY2ZjAtNDMxNi05NmYyLWI5OTU4YjdhNjRjNFwvZGUyb2Rycy1lOTYzNDllYS0wODdhLTRkNDEtYmJlMS0xNjBhMGEwNTZmNGIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EDEDys6YOT26lKmrnaGbwFdM0iGYQoYmGTOylUamlrs"
          width="110" height="80">
        <a href="https://www.twitch.tv/mess783">
-         <a>
+         </a>
     </body>
 </html>
 
@@ -86,4 +86,4 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WUuFFb1lYSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
      
-     # THANK YOU FOR VISITING MY WEBSITE 
+# THANK YOU FOR VISITING MY WEBSITE 
