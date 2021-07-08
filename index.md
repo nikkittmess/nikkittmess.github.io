@@ -10,7 +10,7 @@
 .fa {
   padding: 20px;
   font-size: 30px;
-  width: 100px;
+  width: 80px;
   
   border-radius: 50%;
   text-align: center;
@@ -61,7 +61,7 @@
    <body>
       <br>
      <img alt="VSCO" src="https://2.bp.blogspot.com/-YCK9FuHZrc8/XJP1dIZkouI/AAAAAAAAJR8/jyKxVln7xRcfwHTrBV7hhY0I6Fd1DbEGwCK4BGAYYCw/s1600/logo%2Bvsco%2Bicon%2B.png"
-         width="90" height="70">
+         width="90" height="70" hover=>
       <a href="http://vsco.co/nikkitt-">
        
      <img alt="GITHUB" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png"
@@ -71,6 +71,7 @@
          width="110" height="80">
        <a href="https://www.twitch.tv/mess783">
          </a>
+         </br>
     </body>
 </html>
 
