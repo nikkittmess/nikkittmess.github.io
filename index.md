@@ -102,4 +102,4 @@ if you are watching this ,you are a real one:)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k6oEO381SA4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=WUuFFb1lYSQ&t=6s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="424" height="238" src="https://www.youtube.com/embed/WUuFFb1lYSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
