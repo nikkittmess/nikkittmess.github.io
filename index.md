@@ -73,8 +73,8 @@
    </head>
    <body>
       <br>
-      <a href="https://github.com/nikkittmess/">
-         <img alt="GITHUB" src="https://cdn.icon-icons.com/icons2/2368/PNG/512/github_logo_icon_143772.png"
+      <a href="https://github.com/nikkittmess">
+         <img alt="GITHUB" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png"
          width="100" height="70">
       </a>
    </body>
@@ -102,4 +102,4 @@ if you are watching this ,you are a real one:)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k6oEO381SA4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<iframe width="424" height="238" src="https://www.youtube.com/embed/WUuFFb1lYSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WUuFFb1lYSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
