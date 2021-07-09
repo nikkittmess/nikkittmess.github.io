@@ -1,6 +1,6 @@
 <style>
 body {
-  background-image: url('https://cdn.wallpapersafari.com/72/22/eJpjwf.jpg');
+  background-image: url('https://i.pinimg.com/originals/d7/31/cc/d731cc305683b75db287f2edbb434773.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
