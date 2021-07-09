@@ -1,6 +1,7 @@
 <style>
 body {
-  background-image: url('https://cdn.wallpapersafari.com/74/29/egbtK3.jpeg');
+  background-image: url('https://cdn.wallpapersafari.com/72/22/eJpjwf.jpg');
+  background-repeat: no-repeat;
 }
 </style>
 
