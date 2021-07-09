@@ -2,6 +2,8 @@
 body {
   background-image: url('https://cdn.wallpapersafari.com/72/22/eJpjwf.jpg');
   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 </style>
 
