@@ -8,7 +8,7 @@ body {
 </style>
 
 
-## NIKKITT MESILIY'S WEBSITE 
+<p style="color:white">NIKKITT MESILIY'S WEBSITE </p>
 # SOCIALS
 
 ## Please follow and like my content 
