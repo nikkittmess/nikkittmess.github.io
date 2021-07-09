@@ -7,11 +7,11 @@ body {
 }
 </style>
 
-<p><font size = "4" color = "WHITE">NIKKITT MESILIY'S WEBSITE</font></p>
+<p><font size = "7" color = "WHITE">NIKKITT MESILIY'S WEBSITE</font></p>
 
-# SOCIALS
+<p><font size = "4" color = "WHITE">SOCIALS</font></p>
 
-## Please follow and like my content 
+<p><font size = "2" color = "WHITE">Please follow me and like my content on:</font></p>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
