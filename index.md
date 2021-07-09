@@ -1,3 +1,10 @@
+<style>
+body {
+  background-image: url('https://cdn.wallpapersafari.com/74/29/egbtK3.jpeg');
+}
+</style>
+
+
 ## NIKKITT MESILIY'S WEBSITE 
 # SOCIALS
 
