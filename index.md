@@ -67,12 +67,12 @@ body {
 <div class="1">
     <div class="VSCO">
       <a href="http://vsco.co/nikkitt-">
-        <img src="https://2.bp.blogspot.com/-YCK9FuHZrc8/XJP1dIZkouI/AAAAAAAAJR8/jyKxVln7xRcfwHTrBV7hhY0I6Fd1DbEGwCK4BGAYYCw/s1600/logo%2Bvsco%2Bicon%2B.png" height="70" width="90"/>
+        <img src="https://41rugm3ko2na4b72w4iwb0u5-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/vsco.png" height="70" width="90"/>
       </a>
     </div>
     <div class="GITHUB">
       <a href="https://github.com/nikkittmess">
-        <img class="middle-img" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png"  height="90" width="120">
+        <img class="middle-img" src="https://e7.pngegg.com/pngimages/551/770/png-clipart-github-pages-logo-repository-fork-github-mammal-cat-like-mammal.png"  height="90" width="120">
       </a>
     </div>
     <div class="TWITCH">
@@ -98,4 +98,4 @@ body {
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WUuFFb1lYSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
      
     
-<p><font size = "6" color = "WHITE">THANK YOU FOR VISITING MY WEBSITE</font></p>
+<p><font size = "6" color = "WHITE">THANK YOU FOR VISITING MY WEBSITE :)</font></p>
