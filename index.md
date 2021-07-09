@@ -7,9 +7,8 @@ body {
 }
 </style>
 
+<p><font size = "4" color = "WHITE">NIKKITT MESILIY'S WEBSITE</font></p>
 
-<basefont face = "arial, verdana, sans-serif" size = "5" color = "white">
-      <p>NIKKITT MESILIY'S WEBSITE</p>
 # SOCIALS
 
 ## Please follow and like my content 
