@@ -1,5 +1,11 @@
-body { background-image:url('https://i0.wp.com/windowscustomization.com/wp-content/uploads/2018/10/minimal-seascape.gif?fit=750%2C340&quality=80&strip=all&ssl=1'); 
-background-attachment: fixed;}
+<style>
+body {
+  background-image: url('https://i.pinimg.com/originals/8e/18/f8/8e18f8a8be978d951a0ad0b6b9eeb7fe.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
 
 
 ## NIKKITT MESILIY'S WEBSITE 
