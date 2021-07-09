@@ -1,6 +1,6 @@
 <style>
 body {
-  background-image: url('https://i.pinimg.com/originals/8e/18/f8/8e18f8a8be978d951a0ad0b6b9eeb7fe.jpg');
+  background-image: url('https://wallpapercave.com/wp/wp5594835.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
