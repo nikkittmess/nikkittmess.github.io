@@ -81,13 +81,6 @@ body {
 <p><font size = "4" color = "WHITE">My BLOG</font></p>
  <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/RveMtBkqWV6RqpARpuVwZw/656198664193212416" data-did="e8a60b83ddce8cca5bcb54c280f2e482f3e1639e"><a href="https://generousgalaxychaos.tumblr.com/post/656198664193212416/ease-of-doing-business-in-india">https://generousgalaxychaos.tumblr.com/post/656198664193212416/ease-of-doing-business-in-india</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
         
-<div class="1">
-    <div class="VSCO">
-      <a href="http://instagram.com">
-        <img src="download.jpg" height="70" width="90"/>
-      </a>
-    </div>
-</div>
 
 
 
