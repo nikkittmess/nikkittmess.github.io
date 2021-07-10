@@ -84,7 +84,7 @@ body {
 <div class="1">
     <div class="VSCO">
       <a href="http://instagram.com">
-        <img src="download.png" height="70" width="90"/>
+        <img src="download.jpg" height="70" width="90"/>
       </a>
     </div>
 </div>
