@@ -1,3 +1,11 @@
+---
+layout: default
+---
+
+
+
+
+
 <style>
 body {
   background-image: url('https://i.pinimg.com/originals/5e/fa/11/5efa110d55e58b8c75a74a6d36566b44.jpg');
