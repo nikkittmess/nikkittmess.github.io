@@ -71,11 +71,6 @@ body {
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/VSCO_Seal.svg/1200px-VSCO_Seal.svg.png" height="70" width="90"/>
       </a>
     </div>
-    <div class="GITHUB">
-      <a href="https://github.com/nikkittmess">
-        <img class="middle-img" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png"  height="90" width="120">
-      </a>
-    </div>
     <div class="TWITCH">
       <a href="https://www.twitch.tv/mess783">
          <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f1d8f334-66f0-4316-96f2-b9958b7a64c4/de2odrs-e96349ea-087a-4d41-bbe1-160a0a056f4b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2YxZDhmMzM0LTY2ZjAtNDMxNi05NmYyLWI5OTU4YjdhNjRjNFwvZGUyb2Rycy1lOTYzNDllYS0wODdhLTRkNDEtYmJlMS0xNjBhMGEwNTZmNGIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EDEDys6YOT26lKmrnaGbwFdM0iGYQoYmGTOylUamlrs" height="80" width="110">
