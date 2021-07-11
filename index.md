@@ -99,7 +99,7 @@ body {
   </div>
   <div class="column">
     <a href="http://vsco.co/nikkitt-">
-    <img src="images (2).jpeg" alt="Forest" style="width:60%">
+    <img src="images (2).jpeg" alt="Forest" style="width:60%" border-radius: 50%;>
   </a>
   </div>
 </div>
