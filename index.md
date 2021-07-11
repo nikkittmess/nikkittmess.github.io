@@ -100,9 +100,6 @@ body {
   <div class="column">
     <a href="http://vsco.co/nikkitt-">
     <img src="images (2).jpeg" alt="Forest" style="width:60%" >
- img.rounded-corners {
-  border-radius: 30px;
-}
   </a>
   </div>
 </div>
