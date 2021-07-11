@@ -99,8 +99,7 @@ body {
   </div>
   <div class="column">
     <a href="http://vsco.co/nikkitt-">
-    <img
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/VSCO_Seal.svg/1200px-VSCO_Seal.svg.png" alt="Forest" style="width:60%">
+    <img src="images (2).jpeg" alt="Forest" style="width:60%">
   </a>
   </div>
 </div>
