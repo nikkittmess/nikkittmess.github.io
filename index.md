@@ -7,6 +7,18 @@ body {
 }
 </style>
 
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Example Homepage</title>
+  </head>
+  <body>
+    ...
+    <a href="About.html">About</a>
+    ...
+  </body>
+</html>
+
 
 
 
