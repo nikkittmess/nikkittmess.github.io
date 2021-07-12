@@ -13,7 +13,7 @@ body {
   <body>
     <button class="About">
       <a href="About.html">About</a>
-     style="background-color:red; border-color:white; color:white"</button>
+      <style>background-color:"red"; border-color:"white"; color:"white"</style></button>
   </body>
 </html>
 
