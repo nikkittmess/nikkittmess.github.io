@@ -275,6 +275,6 @@ function toggleFunction() {
 
 <html>
   <body>
-    <h1 style="text-align:center;">THANK YOU FOR VISITING MY WEBSITE</h1>
+    <h1 style="text-align:center;">THANK YOU FOR VISITING MY WEBSITE :)</h1>
   </body>
 </html>
