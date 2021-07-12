@@ -52,7 +52,7 @@ src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vec
   <div class="column">
     <a href="https://twitter.com/nikkitt_mesily">
     <img
-src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="Forest" style="width:60%">
+src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="Forest" style="width:60%">
   </a>
   </div>
   <div class="column">
