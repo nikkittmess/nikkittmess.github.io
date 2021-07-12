@@ -21,7 +21,7 @@ body {
   <body>
     <button class="Contact">
       <a href="contact.html">Contact</a>
-     style="background-color:red; border-color:white; color:white"</button>
+      <style>"background-color : "red"; border-color : "white"; color: "white"</style></button>
   </body>
 </html>
 
