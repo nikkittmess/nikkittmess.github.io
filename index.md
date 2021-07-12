@@ -29,7 +29,7 @@ body {
 .column {
   float: left;
   width: 25%;
-  padding: 2px;
+  padding: 5px;
 }
 
 /* Clearfix (clear floats) */
