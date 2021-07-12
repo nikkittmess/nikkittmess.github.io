@@ -22,7 +22,7 @@ body {
 
 <p><font size = "2" color = "WHITE">Please follow me and like my content on:</font></p>
 
-<div class="icons"></div>
+<div class="icons.md"></div>
 
 <html>
 <head>
