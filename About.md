@@ -1,4 +1,4 @@
-##ABOUT NIKKITT MESILIY
+ABOUT NIKKITT MESILIY
 
-###Recently completed his 12th from The HYDERABAD PUBLIC SCHOOL,Begumpet and is now pursuing his Btech at The CHRIST UNIVERSITY ,Bangalore
+Recently completed his 12th from The HYDERABAD PUBLIC SCHOOL,Begumpet and is now pursuing his Btech at The CHRIST UNIVERSITY ,Bangalore
 
