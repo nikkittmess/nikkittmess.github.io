@@ -7,15 +7,13 @@ body {
 }
 </style>
 
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Example Homepage</title>
   </head>
   <body>
-    ...
-    <a href="About.html">About</a>
-    ...
+    <a href="About.html">ABOUT</a>
   </body>
 </html>
 
