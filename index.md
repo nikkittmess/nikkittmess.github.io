@@ -31,7 +31,7 @@ permalink: /About/
 
 .column {
   float: left;
-  width: 16%;
+  width: 14%;
   padding: 5px;
 }
 
