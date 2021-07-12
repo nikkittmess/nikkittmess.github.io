@@ -96,7 +96,7 @@ body {
   <div class="column">
     <a href="https://www.instagram.com/nikkitt_mesily">
     <img
-src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg.png" alt="Forest" style="width:60%">
+src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" alt="Forest" style="width:60%">
   </a>
   </div>
   <div class="column">
