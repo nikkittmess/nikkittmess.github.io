@@ -10,6 +10,7 @@ body {
   <body>
     <button class="btn success">
       <a href="About.html">About</a></button>
+      <a href="contact.html">About</a></button>
   </body>
 </html>
 
