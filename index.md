@@ -16,56 +16,6 @@ body {
 <p><font size = "4" color = "WHITE">SOCIALS</font></p>
 
 <p><font size = "2" color = "WHITE">Please follow me and like my content on:</font></p>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style>
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 80px;
-  
-  border-radius: 80%;
-  text-align: center;
-  text-decoration: none;
-  margin: 2px 2px;
-}
-
-.fa:hover {
-    opacity: 0.7;
-}
-.fa-instagram {
-  background: #e00b6b;
-  color: white;
-  
-}
-.fa-twitter {
-  background: #55ACEE;
-  color: white;
-}
-.fa-youtube {
-  background: #bb0000;
-  color: white;
-}
-.fa-tumblr {
-  background: #2c4762;
-  color: white;
-}
-
-</style>
-</head>
-<body>
-
-<h2></h2>
-
-<!-- Add font awesome icons -->
-<a href="https://www.instagram.com/nikkitt_mesily" class="fa fa-instagram"></a>
-<a href="https://twitter.com/nikkitt_mesily" class="fa fa-twitter"></a>
-<a href="https://www.youtube.com/channel/UCWnyFD9BaAYa30rz-XVn10Q" class="fa fa-youtube"></a>
-<a href="https://www.tumblr.com/blog/view/generousgalaxychaos" class="fa fa-tumblr"></a>
-</body>
-</html>
 
 
 
