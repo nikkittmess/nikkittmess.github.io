@@ -9,7 +9,7 @@ body {
 <html>
   <body>
     <button class="btn success">
-      <a href="page1.html">About</a></button>
+      <a href="About.html">About</a></button>
   </body>
 </html>
 
