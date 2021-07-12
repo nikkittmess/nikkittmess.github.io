@@ -46,7 +46,7 @@ body {
   <div class="column">
     <a href="https://www.instagram.com/nikkitt_mesily">
     <img
-src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" alt="Forest" style="width:60%">
+src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" alt="Forest" style="width:40%">
   </a>
   </div>
   <div class="column">
@@ -64,7 +64,7 @@ src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-tr
   <div class="column">
     <a href="https://www.tumblr.com/blog/view/generousgalaxychaos">
     <img
-src="https://www.iconpacks.net/icons/2/free-tumblr-logo-icon-2434-thumb.png" alt="Forest" style="width:60%">
+src="https://www.iconpacks.net/icons/2/free-tumblr-logo-icon-2434-thumb.png" alt="Forest" style="width:50%">
   </a>
   </div>
   <div class="column">
@@ -74,7 +74,7 @@ src="https://www.iconpacks.net/icons/2/free-tumblr-logo-icon-2434-thumb.png" alt
   <div class="column">
     <a href="http://vsco.co/nikkitt-">
     <img
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/VSCO_Seal.svg/1200px-VSCO_Seal.svg.png" alt="Forest" style="width:60%">
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/VSCO_Seal.svg/1200px-VSCO_Seal.svg.png" alt="Forest" style="width:50%">
   </a>
   </div>
 </div>
