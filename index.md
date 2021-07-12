@@ -6,13 +6,21 @@ body {
   background-size: cover;
 }
 </style>
+
 <html>
   <body>
-    <button class="btn success">
+    <button class="About">
       <a href="About.html">About</a></button>
-      <a href="contact.html">About</a></button>
   </body>
 </html>
+
+<html>
+  <body>
+    <button class="Contact">
+      <a href="contact.html">Contact</a></button>
+  </body>
+</html>
+
 
   
 
