@@ -13,7 +13,7 @@ body {
   permalink: /About/
 </button>
   
-<div class="icons"></div>
+
 
 
 <p><font size = "5" color = "WHITE">NIKKITT MESILIY'S WEBSITE</font></p>
@@ -22,7 +22,7 @@ body {
 
 <p><font size = "2" color = "WHITE">Please follow me and like my content on:</font></p>
 
-
+<div class="icons"></div>
 
 <html>
 <head>
