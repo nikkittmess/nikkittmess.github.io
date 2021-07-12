@@ -12,14 +12,16 @@ body {
 <html>
   <body>
     <button class="About">
-      <a href="About.html">About</a></button>
+      <a href="About.html">About</a>
+     style="background-color:red; border-color:white; color:white"</button>
   </body>
 </html>
 
 <html>
   <body>
     <button class="Contact">
-      <a href="contact.html">Contact</a></button>
+      <a href="contact.html">Contact</a>
+     style="background-color:red; border-color:white; color:white"</button>
   </body>
 </html>
 
