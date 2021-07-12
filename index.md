@@ -7,11 +7,12 @@ body {
 }
 </style>
 
-
-layout: page
-title: "About"
-permalink: /About/
-
+<button type="button" onclick="alert('You pressed the button!')">About
+  layout: page
+  title: "About"
+  permalink: /About/
+</button>
+  
 
 
 
