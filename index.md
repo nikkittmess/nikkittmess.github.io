@@ -21,7 +21,7 @@ body {
 <html>
   <body>
     <button class="Experimental">
-      <a href="exp.html">About</a>
+      <a href="exp.html">exp</a>
       <style>background-color:"red"; border-color:"white"; color:"white"</style></button>
   </body>
 </html
