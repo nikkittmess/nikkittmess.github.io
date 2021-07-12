@@ -272,4 +272,5 @@ function toggleFunction() {
     }
 }
 </script>
+<!DOCTYPE html>
 #THANKYOU FOR VISITNG MY WEBSITE:)
