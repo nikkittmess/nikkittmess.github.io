@@ -149,7 +149,7 @@ body, html {
     <div class="w3-col m3">
       <img src="temple.jpg.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="temple">
     </div>
-    <button href="https://vsco.co/nikkitt-/gallery" class="w3-button w3-padding-large w3-light-grey" style="margin-top:64px">LOAD MORE</button>
+    <button> href="https://vsco.co/nikkitt-/gallery" class="w3-button w3-padding-large w3-light-grey" style="margin-top:64px">LOAD MORE</button>
   </div>
 </div>
 
