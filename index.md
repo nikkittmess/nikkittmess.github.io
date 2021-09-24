@@ -24,7 +24,7 @@ body, html {
 
 /* First image (Logo. Full height) */
 .bgimg-1 {
-  background-image: url('https://besthqwallpapers.com/Uploads/22-2-2021/156559/thumb2-abstract-winter-landscape-4k-abstract-art-mountains-abstract-nature-backgrounds.jpg');
+  background-image: url('https://images.hdqwalls.com/download/battle-fire-black-rose-dragon-ball-z-4k-5c-1360x768.jpg');
   min-height: 100%;
 }
 
