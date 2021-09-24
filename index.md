@@ -205,14 +205,6 @@ body, html {
   </div>
 </div>
 
-<!-- Third Parallax Image with Portfolio Text -->
-<div class="bgimg-3 w3-display-container w3-opacity-min">
-  <div class="w3-display-middle">
-  <img src="https://images.martechadvisor.com/images/uploads/content_images/shutterstock_296605652_5e5657597ce2e.jpg">
-     <span class="w3-xxlarge w3-text-white w3-wide"></span>
-  </div>
-</div>
-
 <!-- Container (Contact Section) -->
 <div class="w3-content w3-container w3-padding-64" id="contact">
 
