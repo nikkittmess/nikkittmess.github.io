@@ -15,7 +15,7 @@ body, html {
 }
 
 /* Create a Parallax Effect */
-.bgimg-1, .bgimg-2, .bgimg-3 {
+.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -39,13 +39,19 @@ body, html {
   background-image: url("/w3images/parallax3.jpg");
   min-height: 400px;
 }
+  
+/* fourth image (Certificates) */
+.bgimg-3 {
+  background-image: url("/w3images/parallax3.jpg");
+  min-height: 400px;
+}
 
 .w3-wide {letter-spacing: 10px;}
 .w3-hover-opacity {cursor: pointer;}
 
 /* Turn off parallax scrolling for tablets and phones */
 @media only screen and (max-device-width: 1600px) {
-  .bgimg-1, .bgimg-2, .bgimg-3 {
+  .bgimg-1, .bgimg-2, .bgimg-3, bgimg-4{
     background-attachment: scroll;
     min-height: 400px;
   }
@@ -63,6 +69,7 @@ body, html {
     <a href="#about" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-user"></i> ABOUT</a>
     <a href="#portfolio" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-th"></i> PORTFOLIO</a>
     <a href="#contact" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-envelope"></i> CONTACT</a>
+    <a href="#certificates" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-envelope"></i> CERTIFICATES</a>
     <a href="#" class="w3-bar-item w3-button w3-hide-small w3-right w3-hover-red">
       <i class="fa fa-search"></i>
     </a>
@@ -73,6 +80,7 @@ body, html {
     <a href="#about" class="w3-bar-item w3-button" onclick="toggleFunction()">ABOUT</a>
     <a href="#portfolio" class="w3-bar-item w3-button" onclick="toggleFunction()">PORTFOLIO</a>
     <a href="#contact" class="w3-bar-item w3-button" onclick="toggleFunction()">CONTACT</a>
+    <a href="#certificates" class="w3-bar-item w3-button" onclick="toggleFunction()">CERTIFICATES</a>
     <a href="#" class="w3-bar-item w3-button">SEARCH</a>
   </div>
 </div>
@@ -142,6 +150,49 @@ body, html {
       <img src="temple.jpg.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="temple">
     </div>
     <button href="https://vsco.co/nikkitt-/gallery" class="w3-button w3-padding-large w3-light-grey" style="margin-top:64px">LOAD MORE</button>
+  </div>
+</div>
+
+<!-- Modal for full size images on click-->
+<div id="modal01" class="w3-modal w3-black" onclick="this.style.display='none'">
+  <span class="w3-button w3-large w3-black w3-display-topright" title="Close Modal Image"><i class="fa fa-remove"></i></span>
+  <div class="w3-modal-content w3-animate-zoom w3-center w3-transparent w3-padding-64">
+    <img id="img01" class="w3-image">
+    <p id="caption" class="w3-opacity w3-large"></p>
+  </div>
+</div>
+
+<!-- Third Parallax Image with Portfolio Text -->
+<div class="bgimg-3 w3-display-container w3-opacity-min">
+  <div class="w3-display-middle">
+  <img src="https://images.martechadvisor.com/images/uploads/content_images/shutterstock_296605652_5e5657597ce2e.jpg">
+     <span class="w3-xxlarge w3-text-white w3-wide"></span>
+  </div>
+</div>
+  
+<!-- Container (certificate Section) -->
+<div class="w3-content w3-container w3-padding-64" id="certificates">
+  <h3 class="w3-center">MY CERTIFICATES</h3>
+  <p class="w3-center"><em><br> Click on the images to make them bigger</em></p><br>
+
+  <!-- Responsive Grid. Four columns on tablets, laptops and desktops. Will stack on mobile devices/small screens (100% width) -->
+  <div class="w3-row-padding w3-center">
+    <div class="w3-col m3">
+      <img src="IDS DATA SCIENCE CERTIFICATE - IMURGENCE_page-0001.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Bird">
+    </div>
+
+    <div class="w3-col m3">
+      <img src="MYSQL CERTIFICATE - IMURGENCE_page-0001.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="ducks">
+    </div>
+
+    <div class="w3-col m3">
+      <img src="TABLEAU CERTIFICATE - IMURGENCE_page-0001.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="ferrari">
+    </div>
+
+    <div class="w3-col m3">
+      <img src="ethical hacking certification from UDEMY.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="ajmer uni">
+    </div>
+  </div>
   </div>
 </div>
 
