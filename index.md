@@ -99,7 +99,7 @@ body, html {
   <div class="w3-row">
     <div class="w3-col m6 w3-center w3-padding-large">
       <p><b><i class="fa fa-user w3-margin-right"></i>Nikkitt Mesiliy</b></p><br>
-      <img src="https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2019/12/22/Pictures/wrestler-john-cena_c38b19ee-24ca-11ea-b71b-55a416c89533.jpg" class="w3-round w3-image w3-opacity w3-hover-opacity-off" alt="Photo of Me" width="500" height="333">
+      <img src="https://www.pinkvilla.com/files/styles/amp_metadata_content_image/public/kanye-west-face-mask_0.jpg" class="w3-round w3-image w3-opacity w3-hover-opacity-off" alt="Photo of Me" width="500" height="333">
     </div>
 
     <!-- Hide this text on small devices -->
@@ -197,13 +197,13 @@ body, html {
   </div>
 </div>
   
-<!-- Third Parallax Image with Portfolio Text -->
+<!-- Third Parallax Image with Portfolio Text (image to add to be shown just before socials) 
 <div class="bgimg-3 w3-display-container w3-opacity-min">
   <div class="w3-display-middle">
   <img src="https://images.martechadvisor.com/images/uploads/content_images/shutterstock_296605652_5e5657597ce2e.jpg">
      <span class="w3-xxlarge w3-text-white w3-wide"></span>
   </div>
-</div>
+</div> -->
   
 
 <!-- Container (Contact Section) -->
