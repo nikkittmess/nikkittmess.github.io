@@ -117,37 +117,37 @@ body, html {
   <!-- Responsive Grid. Four columns on tablets, laptops and desktops. Will stack on mobile devices/small screens (100% width) -->
   <div class="w3-row-padding w3-center">
     <div class="w3-col m3">
-      <img src="bird.jpg.jpg" width="500" height="400"  onclick="onClick(this)" class="w3-hover-opacity" alt="Bird">
+      <img src="bird.jpg.jpg" width="500" height="700"  onclick="onClick(this)" class="w3-hover-opacity" alt="Bird">
     </div>
 
     <div class="w3-col m3">
-      <img src="ducks.jpg.jpg" width="500" height="400"  onclick="onClick(this)" class="w3-hover-opacity" alt="ducks">
+      <img src="ducks.jpg.jpg" width="500" height="700"  onclick="onClick(this)" class="w3-hover-opacity" alt="ducks">
     </div>
 
     <div class="w3-col m3">
-      <img src="ferrari.jpg.jpg" width="500" height="400" onclick="onClick(this)" class="w3-hover-opacity" alt="ferrari">
+      <img src="ferrari.jpg.jpg" width="500" height="700" onclick="onClick(this)" class="w3-hover-opacity" alt="ferrari">
     </div>
 
     <div class="w3-col m3">
-      <img src="ajmeruni.jpg.jpg" width="500" height="400"  onclick="onClick(this)" class="w3-hover-opacity" alt="ajmer uni">
+      <img src="ajmeruni.jpg.jpg" width="500" height="700"  onclick="onClick(this)" class="w3-hover-opacity" alt="ajmer uni">
     </div>
   </div>
 
   <div class="w3-row-padding w3-center w3-section">
     <div class="w3-col m3">
-      <img src="ajmerground.jpg.jpg" width="500" height="400"  onclick="onClick(this)" class="w3-hover-opacity" alt="ajmer ground">
+      <img src="ajmerground.jpg.jpg" width="500" height="700"  onclick="onClick(this)" class="w3-hover-opacity" alt="ajmer ground">
     </div>
 
     <div class="w3-col m3">
-      <img src="rubberestate.jpg.jpg" width="500" height="400"  onclick="onClick(this)" class="w3-hover-opacity" alt="rubber estate">
+      <img src="rubberestate.jpg.jpg" width="500" height="700"  onclick="onClick(this)" class="w3-hover-opacity" alt="rubber estate">
     </div>
 
     <div class="w3-col m3">
-      <img src="mustang.jpg.jpg" width="500" height="400"  onclick="onClick(this)" class="w3-hover-opacity" alt="mustang">
+      <img src="mustang.jpg.jpg" width="500" height="700"  onclick="onClick(this)" class="w3-hover-opacity" alt="mustang">
     </div>
 
     <div class="w3-col m3">
-      <img src="temple.jpg.jpg" width="500" height="400"  onclick="onClick(this)" class="w3-hover-opacity" alt="temple">
+      <img src="temple.jpg.jpg" width="500" height="700"  onclick="onClick(this)" class="w3-hover-opacity" alt="temple">
     </div>
     <button href="https://vsco.co/nikkitt-/gallery" class="w3-button w3-padding-large w3-light-grey" style="margin-top:64px">LOAD MORE</button>
   </div>
