@@ -129,7 +129,7 @@ body, html {
     </div>
 
     <div class="w3-col m3">
-      <img src="ajmeruni.jpg.jpg" width="500" height="300"  onclick="onClick(this)" class="w3-hover-opacity" alt="ajmer uni">
+      <img src="ajmeruni.jpg.jpg" width="500" height="300"  onclick="onClick(this)" class="w3-hover-opacity" alt="ajmer university">
     </div>
   </div>
 
@@ -149,21 +149,23 @@ body, html {
     <div class="w3-col m3">
       <img src="temple.jpg.jpg" width="500" height="300"  onclick="onClick(this)" class="w3-hover-opacity" alt="temple">
     </div>
-    
+  </div>
+  
+  <div class="w3-row-padding w3-center w3-section">
     <div class="w3-col m3">
-      <img src="lalbaghjapanese.jpg" width="500" height="300"  onclick="onClick(this)" class="w3-hover-opacity" alt="temple">
+      <img src="lalbaghjapanese.jpg" width="500" height="300"  onclick="onClick(this)" class="w3-hover-opacity" alt="Lal Bagh Garden">
     </div>
     
     <div class="w3-col m3">
-      <img src="lalbaghbonsai.jpg" width="500" height="300"  onclick="onClick(this)" class="w3-hover-opacity" alt="temple">
+      <img src="lalbaghbonsai.jpg" width="500" height="300"  onclick="onClick(this)" class="w3-hover-opacity" alt="Bonsai tree">
     </div>
     
     <div class="w3-col m3">
-      <img src="lalbaghsky.jpg" width="500" height="300"  onclick="onClick(this)" class="w3-hover-opacity" alt="temple">
+      <img src="lalbaghsky.jpg" width="500" height="300"  onclick="onClick(this)" class="w3-hover-opacity" alt="Lal Bagh Botanical Garden">
     </div>
     
     <div class="w3-col m3">
-      <img src="lalbaghlake.jpg" width="500" height="300"  onclick="onClick(this)" class="w3-hover-opacity" alt="temple">
+      <img src="lalbaghlake.jpg" width="500" height="300"  onclick="onClick(this)" class="w3-hover-opacity" alt="Lake">
     </div>
     <button href="https://vsco.co/nikkitt-/gallery" class="w3-button w3-padding-large w3-light-grey" style="margin-top:64px">LOAD MORE</button>
   </div>
