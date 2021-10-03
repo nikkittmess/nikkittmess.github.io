@@ -149,6 +149,22 @@ body, html {
     <div class="w3-col m3">
       <img src="temple.jpg.jpg" width="500" height="300"  onclick="onClick(this)" class="w3-hover-opacity" alt="temple">
     </div>
+    
+    <div class="w3-col m3">
+      <img src="lalbaghjapanese.jpg" width="500" height="300"  onclick="onClick(this)" class="w3-hover-opacity" alt="temple">
+    </div>
+    
+    <div class="w3-col m3">
+      <img src="lalbaghbonsai.jpg" width="500" height="300"  onclick="onClick(this)" class="w3-hover-opacity" alt="temple">
+    </div>
+    
+    <div class="w3-col m3">
+      <img src="lalbaghsky.jpg" width="500" height="300"  onclick="onClick(this)" class="w3-hover-opacity" alt="temple">
+    </div>
+    
+    <div class="w3-col m3">
+      <img src="lalbaghlake.jpg" width="500" height="300"  onclick="onClick(this)" class="w3-hover-opacity" alt="temple">
+    </div>
     <button href="https://vsco.co/nikkitt-/gallery" class="w3-button w3-padding-large w3-light-grey" style="margin-top:64px">LOAD MORE</button>
   </div>
 </div>
