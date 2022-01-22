@@ -2,6 +2,8 @@
 div {
   background-image: url('https://www.technistone.com/color-range/image-slab/Starlight%20Black_SLAB_web.jpg');
   background-size: cover;
+  background-attachment: fixed;
+  background-size: 100% 100%;
 }
 </style>
 
