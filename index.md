@@ -107,14 +107,6 @@ body {font-family: "Lato", sans-serif}
     </div>
   </div>
   
-<style>
-div {
-  background-image: url('https://www.technistone.com/color-range/image-slab/Starlight%20Black_SLAB_web.jpg');
-  background-size: cover;
-  background-attachment: fixed;
-  background-size: 100% 100%;
-}
-</style>
 <!-- Container (Portfolio Section) -->
 <div class="w3-content w3-container w3-padding-64" id="portfolio">
   <h3 class="w3-center">PICTURES CLICKED BY ME</h3>
