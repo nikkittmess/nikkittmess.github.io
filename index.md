@@ -1,3 +1,9 @@
+<style>
+div {
+  background-image: url('https://www.technistone.com/color-range/image-slab/Starlight%20Black_SLAB_web.jpg');
+  background-size: cover;
+}
+</style>
 
 <html>
 <title>W3.CSS Template</title>
@@ -14,11 +20,7 @@ body, html {
   line-height: 1.8;
 }
 
-<style>
-div {
-  background-image: url('https://www.technistone.com/color-range/image-slab/Starlight%20Black_SLAB_web.jpg');
-}
-</style>
+
 /* Create a Parallax Effect */
 .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
   background-attachment: fixed;
