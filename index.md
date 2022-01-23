@@ -13,6 +13,13 @@ body, html {
   color: #777;
   line-height: 1.8;
 }
+html { 
+  background: url('https://cdn.theatlantic.com/thumbor/VCoUZjXa6W3jOoQ9yG4pFlR59LY=/80x43:2688x1999/1200x900/media/img/mt/2015/10/Cygnus_v3_BandW/original.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 
 /* Create a Parallax Effect */
 .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
