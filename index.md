@@ -14,7 +14,7 @@ body, html {
   line-height: 1.8;
 }
 html { 
-  background: url('https://cdn.theatlantic.com/thumbor/VCoUZjXa6W3jOoQ9yG4pFlR59LY=/80x43:2688x1999/1200x900/media/img/mt/2015/10/Cygnus_v3_BandW/original.jpg') no-repeat center center fixed; 
+  background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/640px-A_black_image.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
