@@ -204,7 +204,7 @@ body, html {
     </div>
     
     <div class="w3-col m3">
-      <img src="AICRA CERTIFICATE.pdf" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="AICRA CERTIFIED DATA SCIENTIST">
+      <img src="Screenshot 2022-01-23 102828.png" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="AICRA CERTIFIED DATA SCIENTIST">
     </div>
     
   </div>
