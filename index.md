@@ -135,7 +135,7 @@ body, html {
 
   <div class="w3-row-padding w3-center w3-section">
     <div class="w3-col m3">
-      <img src="ajmerground.jpg.jpg" width="500" height="300"  onclick="onClick(this)" class="w3-hover-opacity" alt="Ajemr,Gujarat">
+      <img src="ajmerground.jpg.jpg" width="500" height="300"  onclick="onClick(this)" class="w3-hover-opacity" alt="Ajmer,Gujarat">
     </div>
 
     <div class="w3-col m3">
@@ -204,7 +204,7 @@ body, html {
     </div>
     
     <div class="w3-col m3">
-      <img src="AICRA CERTIFICATE.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="AICRA CERTIFIED DATA SCIENTIST">
+      <img src="AICRA CERTIFICATE.pdf" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="AICRA CERTIFIED DATA SCIENTIST">
     </div>
     
   </div>
