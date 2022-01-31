@@ -13,13 +13,6 @@ body, html {
   color: #777;
   line-height: 1.8;
 }
-html { 
-  background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/640px-A_black_image.jpg') no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
 
 /* Create a Parallax Effect */
 .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
@@ -128,29 +121,29 @@ html {
     </div>
 
     <div class="w3-col m3">
-      <img src="ducks.jpg.jpg" width="500" height="300"  onclick="onClick(this)" class="w3-hover-opacity" alt="Batak">
+      <img src="ducks.jpg.jpg" width="500" height="300"  onclick="onClick(this)" class="w3-hover-opacity" alt="ducks">
     </div>
 
     <div class="w3-col m3">
-      <img src="ferrari.jpg.jpg" width="500" height="300" onclick="onClick(this)" class="w3-hover-opacity" alt="Ferrari">
+      <img src="ferrari.jpg.jpg" width="500" height="300" onclick="onClick(this)" class="w3-hover-opacity" alt="ferrari">
     </div>
 
     <div class="w3-col m3">
-      <img src="ajmeruni.jpg.jpg" width="500" height="300"  onclick="onClick(this)" class="w3-hover-opacity" alt="Mayo College ">
+      <img src="ajmeruni.jpg.jpg" width="500" height="300"  onclick="onClick(this)" class="w3-hover-opacity" alt="ajmer university">
     </div>
   </div>
 
   <div class="w3-row-padding w3-center w3-section">
     <div class="w3-col m3">
-      <img src="ajmerground.jpg.jpg" width="500" height="300"  onclick="onClick(this)" class="w3-hover-opacity" alt="Ajmer,Gujarat">
+      <img src="ajmerground.jpg.jpg" width="500" height="300"  onclick="onClick(this)" class="w3-hover-opacity" alt="ajmer ground">
     </div>
 
     <div class="w3-col m3">
-      <img src="rubberestate.jpg.jpg" width="500" height="300"  onclick="onClick(this)" class="w3-hover-opacity" alt="Rubber Estate">
+      <img src="rubberestate.jpg.jpg" width="500" height="300"  onclick="onClick(this)" class="w3-hover-opacity" alt="rubber estate">
     </div>
 
     <div class="w3-col m3">
-      <img src="mustang.jpg.jpg" width="500" height="300"  onclick="onClick(this)" class="w3-hover-opacity" alt="Mustang">
+      <img src="mustang.jpg.jpg" width="500" height="300"  onclick="onClick(this)" class="w3-hover-opacity" alt="mustang">
     </div>
 
     <div class="w3-col m3">
@@ -195,25 +188,20 @@ html {
   <!-- Responsive Grid. Four columns on tablets, laptops and desktops. Will stack on mobile devices/small screens (100% width) -->
   <div class="w3-row-padding w3-center">
     <div class="w3-col m3">
-      <img src="IDS DATA SCIENCE CERTIFICATE - IMURGENCE_page-0001.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="IDS Data Scientist ">
+      <img src="IDS DATA SCIENCE CERTIFICATE - IMURGENCE_page-0001.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Bird">
     </div>
 
     <div class="w3-col m3">
-      <img src="MYSQL CERTIFICATE - IMURGENCE_page-0001.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="MySQL Certificate">
+      <img src="MYSQL CERTIFICATE - IMURGENCE_page-0001.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="ducks">
     </div>
 
     <div class="w3-col m3">
-      <img src="TABLEAU CERTIFICATE - IMURGENCE_page-0001.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Tableau Certificate">
+      <img src="TABLEAU CERTIFICATE - IMURGENCE_page-0001.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="ferrari">
     </div>
 
     <div class="w3-col m3">
-      <img src="ethical hacking certification from UDEMY.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Ethical Hacking Certificate">
+      <img src="ethical hacking certification from UDEMY.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="ajmer uni">
     </div>
-    
-    <div class="w3-col m3">
-      <img src="Screenshot 2022-01-23 102828.png" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="AICRA CERTIFIED DATA SCIENTIST">
-    </div>
-    
   </div>
   </div>
 </div>
@@ -349,7 +337,7 @@ function toggleFunction() {
 
 <html>
   <body>
-    <h1 style="text-align:center;">THANK YOU FOR VISITING MY WEBSITE ;)</h1>
+    <h1 style="text-align:center;">THANK YOU FOR VISITING MY WEBSITE :)</h1>
   </body>
 </html>
   
