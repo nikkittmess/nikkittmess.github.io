@@ -256,7 +256,7 @@ body, html {
 <div class="row">
   <div class="column">
     <a href="https://www.instagram.com/nikkittmesily"  target=”_blank”
-    <img
+    img
 src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" alt="Instagram" style="width:40%">
   </a>
   </div>
