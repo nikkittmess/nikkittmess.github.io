@@ -255,41 +255,41 @@ body, html {
 
 <div class="row">
   <div class="column">
-    <a href="https://www.instagram.com">
+    <a href="https://www.instagram.com/nikkittmesily"  target=”_blank”>
     <img
 src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" alt="Instagram" style="width:40%">
   </a>
   </div>
   <div class="column">
-    <a href="https://twitter.com/nikkitt_mesily">
+    <a href="https://twitter.com/nikkitt_mesily"  target=”_blank”>
     <img
 src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="Twitter" style="width:60%">
   </a>
   </div>
   <div class="column">
-    <a href="https://www.youtube.com/channel/UCWnyFD9BaAYa30rz-XVn10Q">
+    <a href="https://www.youtube.com/channel/UCWnyFD9BaAYa30rz-XVn10Q"  target=”_blank”>
     <img
 src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" alt="youtube" style="width:60%">
   </a>
   </div>
   <div class="column">
-    <a href="https://www.tumblr.com/blog/view/generousgalaxychaos">
+    <a href="https://www.tumblr.com/blog/view/generousgalaxychaos"  target=”_blank”>
     <img
 src="https://www.iconpacks.net/icons/2/free-tumblr-logo-icon-2434-thumb.png" alt="Tumblr" style="width:50%">
   </a>
   </div>
   <div class="column">
-    <a href="https://www.twitch.tv/mess783">
+    <a href="https://www.twitch.tv/mess783"  target=”_blank”>
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f1d8f334-66f0-4316-96f2-b9958b7a64c4/de2odrs-e96349ea-087a-4d41-bbe1-160a0a056f4b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2YxZDhmMzM0LTY2ZjAtNDMxNi05NmYyLWI5OTU4YjdhNjRjNFwvZGUyb2Rycy1lOTYzNDllYS0wODdhLTRkNDEtYmJlMS0xNjBhMGEwNTZmNGIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EDEDys6YOT26lKmrnaGbwFdM0iGYQoYmGTOylUamlrs" alt="Twitch" style="width:60%">   </a>
   </div>
   <div class="column">
-    <a href="http://vsco.co/nikkitt-">
+    <a href="http://vsco.co/nikkitt-"  target=”_blank”>
     <img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/VSCO_Seal.svg/1200px-VSCO_Seal.svg.png" alt="VSCO" style="width:50%">
   </a>
   </div>
    <div class="column">
-    <a href="https://www.linkedin.com/in/nikkitt-mesily-664659198/">
+    <a href="https://www.linkedin.com/in/nikkitt-mesily-664659198/"  target=”_blank”>
     <img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" style="width:50%">
   </a>
