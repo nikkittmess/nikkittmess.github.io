@@ -226,11 +226,29 @@ function toggleFunction() {
 }
 </script>
 
+<!DOCTYPE html>
 <html>
-  <body>
-    <h1 style="text-align:center;">THANK YOU FOR VISITING MY WEBSITE :)</h1>
-        <a  class="w3-center" href="http://11f6-122-171-20-150.ngrok-free.app/templates/nearyou/index.html" target="_blank"><p style="text-align: center;">Find Friends Near You</p></a>
+<body onload="getLocation()">
 
-  </body>
+
+<p id="demo"></p>
+<script>
+var x = document.getElementById("demo");
+
+function getLocation() {
+  if (navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(showPosition);
+  } else { 
+    x.innerHTML = "Geolocation is not supported by this browser.";
+  }
+}
+
+function showPosition(position) {
+  x.innerHTML = "Latitude: " + position.coords.latitude + 
+  "<br>Longitude: " + position.coords.longitude;
+}
+</script>
+
+</body>
 </html>
   
