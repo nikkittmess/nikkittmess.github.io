@@ -1,0 +1,24 @@
+.blur{
+    font-size: 40px;
+    color: transparent;
+    text-shadow: 0 0 15px #fffdfd;
+
+  }
+
+  .prevent-select {
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none; /* Standard syntax */
+  }
+  .btn {
+    background-color: rgb(69, 108, 83);
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  /* Darker background on mouse-over */
+.btn:hover {
+  background-color: rgb(24, 37, 28);
+}
