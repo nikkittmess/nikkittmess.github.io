@@ -8,7 +8,7 @@ body, html {
 
 /* Create a Parallax Effect */
 .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
-  background-attachment: fixed;
+  background-attachment: scroll;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -74,8 +74,21 @@ body, html {
     content: "";
     clear: both;
     display: table;
+    text-align: center;
   }
 
   .gradient {
     background:black
   }
+  .footer {
+    background-color: #f2f2f2; /* Light grey background color */
+    padding: 20px; /* Add padding for spacing */
+    width: 100%; /* Span the whole website width */
+    box-sizing: border-box; /* Include padding and border in the total width */
+  }
+  .divider {
+    border: none; /* Remove default border */
+    border-top: 2px solid #ccc; /* Add a 1px solid line on top */
+    margin: 200px; /* Add margin for spacing */
+  }
+  
