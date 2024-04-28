@@ -3,6 +3,7 @@
 <title>NIKKITT MESILIY'S WEBSITE</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
 <head>
 
 
@@ -22,7 +23,7 @@
     <a class="w3-bar-item w3-button w3-hover-black w3-hide-large" href="javascript:void(0);" onclick="toggleFunction()" title="Toggle Navigation Menu">
       <i class="fa fa-bars"></i>
     </a>
-    <a href="#home" class="w3-bar-item w3-button w3-large w3-hover-dark-grey w3-text-white "><i class="fa fa-home"></i>HOME</a>
+    <a href="#home" behaviour =smoooth class="w3-bar-item w3-button w3-large w3-hover-dark-grey w3-text-white "><i class="fa fa-home"></i>HOME</a>
     <a href="#about" class="w3-bar-item w3-button w3-large w3-hide-small w3-hover-dark-grey w3-text-white"><i class="fa fa-user"></i> ABOUT</a>
     <a href="#IMAGES" class="w3-bar-item w3-button  w3-large w3-hide-small w3-hover-dark-gray w3-hover-text-white w3-text-white"><i class="fa fa-th"></i> IMAGES</a>
     <a href="#contact" class="w3-bar-item w3-button  w3-large w3-hide-small w3-hover-dark-gray w3-hover-text-white w3-text-white"><i class="fa fa-phone"></i> CONTACT</a>
@@ -143,54 +144,43 @@
   
 <hr class="divider">
 <!-- Container (Contact Section) -->
-<div class="w3-content w3-container" id="contact">
+<div class="w3-content w3-container " id="contact">
 
 <p><font size = "4" color = "BLACK">Please follow me and like my content on:</font></p>
 
 
-<html>
+
 
 <body>
 
-<div class="row">
+<div class="w3-center row">
   <div class="column">
-    <a href="https://github.com/nikkittmess"  target=”_blank”>
-      <img
-  src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" style="width:50%">
+    <a href="https://github.com/nikkittmess"  target=”_blank”><img src="ASSETS/github.png" alt="GitHub" style="width:50%">
     </a>
-  </div>
-  <div class="column">
-    <a href="https://twitter.com/nikkittmesily"  target=”_blank”>
-    <img
-src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="Twitter" style="width:60%">
-  </a>
-  </div>
+</div>
+
   <div class="column">
     <a href="https://www.youtube.com/channel/UCWnyFD9BaAYa30rz-XVn10Q"  target=”_blank”>
-    <img
-src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" alt="youtube" style="width:60%">
+      <img src="ASSETS/youtube.png" alt="youtube" style="width:50%">
   </a>
   </div>
   <div class="column">
     <a href="https://www.tumblr.com/blog/view/generousgalaxychaos"  target=”_blank”>
-    <img
-src="https://www.iconpacks.net/icons/2/free-tumblr-logo-icon-2434-thumb.png" alt="Tumblr" style="width:50%">
+      <img src="ASSETS/tumblr.png" alt="Tumblr" style="width:50%">
   </a>
   </div>
   <div class="column">
     <a href="https://www.twitch.tv/mess783"  target=”_blank”>
-    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f1d8f334-66f0-4316-96f2-b9958b7a64c4/de2odrs-e96349ea-087a-4d41-bbe1-160a0a056f4b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2YxZDhmMzM0LTY2ZjAtNDMxNi05NmYyLWI5OTU4YjdhNjRjNFwvZGUyb2Rycy1lOTYzNDllYS0wODdhLTRkNDEtYmJlMS0xNjBhMGEwNTZmNGIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EDEDys6YOT26lKmrnaGbwFdM0iGYQoYmGTOylUamlrs" alt="Twitch" style="width:60%">   </a>
+      <img src="ASSETS/twitch.png" alt="Twitch" style="width:50%">   </a>
   </div>
   <div class="column">
     <a href="http://vsco.co/nikkitt-"  target=”_blank”>
-    <img
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/VSCO_Seal.svg/1200px-VSCO_Seal.svg.png" alt="VSCO" style="width:50%">
+      <img src="ASSETS/vsco.png" alt="VSCO" style="width:50%">
   </a>
   </div>
    <div class="column">
     <a href="https://www.linkedin.com/in/nikkitt-mesily-664659198/"  target=”_blank”>
-    <img
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" style="width:50%">
+      <img src="ASSETS/linkedin.png" alt="LinkedIn" style="width:50%">
   </a>
   </div>
 </div>
@@ -217,14 +207,42 @@ function onClick(element) {
 // Used to toggle the menu on small screens when clicking on the menu button
 function toggleFunction() {
     var x = document.getElementById("navDemo");
+    
     if (x.className.indexOf("w3-show") == -1) {
         x.className += " w3-show";
     } else {
         x.className = x.className.replace(" w3-show", "");
     }
 }
+
 </script>
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  // Add smooth scrolling to all links
+  $("a").on('click', function(event) {
 
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== "") {
+      // Prevent default anchor click behavior
+      event.preventDefault();
+
+      // Store hash
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 800, function(){
+
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+      });
+    } // End if
+  });
+});
+</script>
 
   
