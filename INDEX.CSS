@@ -90,8 +90,12 @@ body, html {
   .divider {
     border: none; /* Remove default border */
     border-top: 2px solid #ccc; /* Add a 1px solid line on top */
-    margin: 200px; /* Add margin for spacing */
+    margin: 125px; /* Add margin for spacing */
     padding-bottom: 0%;
   }
 
 
+  .glowing-text {
+    color: white; /* Text color */
+    text-shadow: 0 0 10px black; /* Horizontal offset, vertical offset, blur radius, color */
+}
