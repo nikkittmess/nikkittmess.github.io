@@ -16,14 +16,14 @@ body, html {
 
 /* First image (Logo. Full height) */
 .bgimg-1 {
-  background-image: url('ASSETS/websiteBG.png');
+  background-image: url('ASSETS/BG-WEBPAGE.png');
   min-height: 100%;
   
 }
 
 /* Second image (Portfolio) */
 .bgimg-2 {
-  background-image: url("https://media1.thehungryjpeg.com/thumbs/800_3514316_a597323a737346098a3af9eb91982c4690e79366.jpg");
+  background-image: white;
   min-height: 400px;
 }
 
