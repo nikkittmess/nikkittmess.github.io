@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,4 +5,4 @@
     <title>Text</title>
 </head>
 <body>
-    <h1>Under Contruction</
+    <h1>Under Contruction</h1>
