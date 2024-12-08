@@ -1,10 +1,17 @@
-
+/* styles.css */
+@import url("https://www.w3schools.com/w3css/4/w3.css"); /* This imports the base-styles.css file */
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+@import url("https://www.w3schools.com/w3css/4/w3.css");
 body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif;}
+/*---------------------------------------------------------------------------------------------------------------------------------------------------*/
+
 body, html {
   height: 100%;
   color: #1f1f1f;
   line-height: 1.8;
 }
+
+/*---------------------------------------------------------------------------------------------------------------------------------------------------*/
 
 /* Create a Parallax Effect */
 .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
@@ -19,27 +26,32 @@ body, html {
     background-image: url('ASSETS/homepage.jpg'); /* Replace with your image path */
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;
     height: 100vh; /* Full screen height */
 }
 
 /* Second image (Portfolio) */
 .bgimg-2 {
-  background-image: white;
-  min-height: 400px;
+  background-image: url('ASSETS/Black.jpg'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Full screen height */
 }
 
 /* Third image (Contact) */
 .bgimg-3 {
-  background-image: url("/w3images/parallax3.jpg");
-  min-height: 400px;
+  background-image: url('ASSETS/Black.jpg'); /* Replace with your image path */
+  background-size: cover;
+  background-position: center;
+  height: 100vh; /* Full screen height */
   
 }
   
 /* fourth image (Certificates) */
-.bgimg-3 {
-  background-image: url("/w3images/parallax3.jpg");
-  min-height: 400px;
+.bgimg-4{
+  background-image: url('ASSETS/Black.jpg'); /* Replace with your image path */
+  background-size: cover;
+  background-position: center;
+  height: 115vh; /* Full screen height */
 }
 
 .w3-wide {letter-spacing: 10px;}
@@ -52,52 +64,36 @@ body, html {
     min-height: 400px;
   }
 }
-.grid {
+
+/*---------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+/* Grid container styling */
+.grid{
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-gap: 10px;
+  grid-template-columns: repeat(3, 1fr); /* 3 equal columns */
+  grid-template-rows: repeat(3, auto);  /* Adjust rows based on content */
+  gap: 10px;                            /* Space between grid items */
+  padding: 10px;                        /* Padding around the grid */
+  max-width: 1700px;                     /* Optional: limit overall grid width */
+  margin: auto;                         /* Center the grid on the page */
 }
 
-.grid img {
-  width: 100%;
+/* Grid item styling */
+.grid-item {
+  overflow: hidden;                     /* Ensures images fit properly */
+  border: 2px solid #ddd;               /* Optional: Add border around items */
+  border-radius: 5px;  
+  cursor: pointer;  
+  transition: transform 0.3s ease;               /* Optional: Add rounded corners */
+}
+/* Image styling */
+.grid-item img {
+  display: block;
+  width: 100%;                          /* Ensure images fill grid cells */
+  height: auto;                         /* Maintain aspect ratio */
+  object-fit: cover;                    /* Crop images to fit neatly */
 }
 
-* {
-    box-sizing: border-box;
-  }
-  
-  .column {
-    float: left;
-    width: 14%;
-    padding: 5px;
-  }
-  
-  /* Clearfix (clear floats) */
-  .row::after {
-    content: "";
-    clear: both;
-    display: table;
-    text-align: center;
-  }
-
-  .gradient {
-    background:black
-  }
-  .footer {
-    background-color: #2c2c2c; /* Light grey background color */
-    padding: 20px; /* Add padding for spacing */
-    width: 100%; /* Span the whole website width */
-    box-sizing: border-box; /* Include padding and border in the total width */
-  }
-  .divider {
-    border: none; /* Remove default border */
-    border-top: 2px solid #ccc; /* Add a 1px solid line on top */
-    margin: 125px; /* Add margin for spacing */
-    padding-bottom: 0%;
-  }
+/*---------------------------------------------------------------------------------------------------------------------------------------------------*/
 
 
-  .glowing-text {
-    color: white; /* Text color */
-    text-shadow: 0 0 10px rgb(82, 82, 82); /* Horizontal offset, vertical offset, blur radius, color */
-}

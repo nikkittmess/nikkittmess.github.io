@@ -1,4 +1,8 @@
-      
+    // Create a link element
+const link = document.createElement("link");
+link.rel = "stylesheet"; // Specify that it is a CSS file
+link.href = "index.css"; // Path to your CSS file
+
 // Modal Image Gallery
 function onClick(element) {
   document.getElementById("img01").src = element.src;
@@ -47,4 +51,4 @@ $(document).ready(function(){
     } // End if
   });
 });
-</script>
+
