@@ -51,7 +51,7 @@ body, html {
   background-image: url('ASSETS/Black.jpg'); /* Replace with your image path */
   background-size: cover;
   background-position: center;
-  height: 115vh; /* Full screen height */
+  height: 100vh; /* Full screen height */
 }
 
 .w3-wide {letter-spacing: 10px;}
@@ -72,7 +72,7 @@ body, html {
   display: grid;
   grid-template-columns: repeat(3, 1fr); /* 3 equal columns */
   grid-template-rows: repeat(3, auto);  /* Adjust rows based on content */
-  gap: 10px;                            /* Space between grid items */
+  gap: 25px;                            /* Space between grid items */
   padding: 10px;                        /* Padding around the grid */
   max-width: 1700px;                     /* Optional: limit overall grid width */
   margin: auto;                         /* Center the grid on the page */
@@ -96,4 +96,9 @@ body, html {
 
 /*---------------------------------------------------------------------------------------------------------------------------------------------------*/
 
+.padding1{
 
+  padding-top: 20px;
+}
+
+/*---------------------------------------------------------------------------------------------------------------------------------------------------*/

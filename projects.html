@@ -1,17 +1,11 @@
 <html>
-<title>NIKKITT MESILIY'S WEBSITE</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+    <head> 
+      <link rel="stylesheet" href="index.css"/>
+      <script src="script.js"></script>
+    </head>
 
-<head>
-    <link rel="stylesheet" type="text/css" href="index.css"/>
-    <script src="script.js"></script>
-</head>
-    
-    
     <body>
-    
-    <!-- Navbar (sit on top) -->
+      <!-- Navbar (sit on top) -->
     <div class="w3-top ">
       <div class="w3-bar" id="myNavbar">
         <a class="w3-bar-item w3-button w3-hover-black w3-hide-large" href="javascript:void(0);" onclick="toggleFunction()" title="Toggle Navigation Menu">
@@ -20,7 +14,6 @@
         <a href="index.html" behaviour =smoooth class="glowing-text w3-bar-item w3-button w3-large w3-hover-text-grey w3-hover-black w3-text-white "><i class="fa fa-home"></i>HOME</a>
         <a href="about.html" class="glowing-text w3-bar-item w3-button w3-large w3-hover-text-grey w3-hover-black w3-text-white "><i class="fa fa-user"></i> ABOUT</a>
         <a href="projects.html" class="glowing-text w3-bar-item w3-button  w3-large w3-hover-text-grey w3-hover-black w3-text-white "><i class="fa fa-th"></i> PROJECTS</a>
-        <a href="certificates.html" class="glowing-text w3-bar-item w3-button  w3-large w3-hover-text-grey w3-hover-black w3-text-white "><i class="fa fa-certificate"></i> CERTIFICATES</a>
         <a href="contact.html" class="glowing-text w3-bar-item w3-button  w3-large w3-hover-text-grey w3-hover-black w3-text-white "><i class="fa fa-phone"></i> CONTACT</a>
         <a href="resume.html" class="glowing-text w3-bar-item w3-button  w3-large w3-large w3-right w3-hover-text-grey w3-hover-black w3-text-white "><i class="fa fa-envelope"></i> Resume</a>
       </div>
@@ -30,20 +23,49 @@
         <a href="about.html" class="w3-bar-item w3-button w3-text-white" onclick="toggleFunction()">ABOUT</a>
         <a href="projects.html" class="w3-bar-item w3-button w3-text-white" onclick="toggleFunction()">IMAGES</a>
         <a href="contact.html" class="w3-bar-item w3-button w3-text-white" onclick="toggleFunction()">CONTACT</a>
-        <a href="certificates.html" class="w3-bar-item w3-button w3-text-white" onclick="toggleFunction()">CERTIFICATES</a>
         <a href="contact.html" class="w3-bar-item w3-button w3-text-white" onclick="toggleFunction()">CONTACT</a>
       </div>
     </div>
-    
 
+    <!-- Container (certificate Section) -->
+<!-- Projects Section -->
+<div class="bgimg-4 " id="projects">
+  <p class="w3-large w3-center w3-text-grey padding1"><em><br>Click on the images to find the github repository</em></p><br>
+  <div class="grid">
+    <!-- Project 1 -->
+    <a href="https://github.com/nikkittmess/nikkittmess.github.io" target="_blank">
+      <img src="ASSETS/project1.png" width="500" height="300" class="grid-item w3-hover-opacity">
+    </a>
 
-  <!-- First Parallax Image with Logo Text -->
-<div class="bgimg-2 w3-display-container" id="home">
-    <div class="w3-display-middle w3-center" style="white-space:nowrap;"></div>
+    <!-- Project 2 -->
+    <a href="https://github.com/yourusername/project2" target="_blank">
+      <img src="ASSETS/project2.png" width="500" height="300" class="grid-item w3-hover-opacity">
+    </a>
+
+    <!-- Project 3 -->
+    <a href="https://github.com/yourusername/project3" target="_blank">
+      <img src="ASSETS/project3.png" width="500" height="300" class="grid-item w3-hover-opacity">
+    </a>
+
+    <!-- Project 4 -->
+    <a href="https://github.com/yourusername/project4" target="_blank">
+      <img src="ASSETS/project4.png" width="500" height="300" class="grid-item w3-hover-opacity">
+    </a>
+
+    <!-- Project 5 -->
+    <a href="https://github.com/yourusername/project5" target="_blank">
+      <img src="ASSETS/project5.png" width="500" height="300" class="grid-item w3-hover-opacity">
+    </a>
+
+    <!-- Add more projects as needed -->
+  </div>
 </div>
-  
-  
 
+<div id="expanded-container" class="expanded" style="display: none;">
+  <span class="close" onclick="closeExpanded()">×</span>
+  <img id="expanded-image" src="" alt="Expanded">
+</div>
+    
+    </body>
+</html>
 
-
-</body>
