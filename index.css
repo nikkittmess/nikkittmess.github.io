@@ -102,3 +102,45 @@ body, html {
 }
 
 /*---------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+/* Ensure navbar buttons stack properly on mobile */
+@media only screen and (max-width: 768px) {
+  .w3-bar-item {
+      display: block;
+      text-align: center;
+      padding: 10px;
+  }
+  
+  /* Fix menu for small screens */
+  #navDemo {
+      display: none;
+  }
+  
+  .w3-top {
+      position: fixed;
+      width: 100%;
+      background-color: rgba(0, 0, 0, 0.8);
+  }
+}
+
+/* Adjust grid layout for smaller screens */
+@media only screen and (max-width: 768px) {
+  .grid {
+      grid-template-columns: 1fr; /* Single column for small screens */
+      gap: 15px;
+  }
+}
+
+/* Ensure parallax backgrounds fit mobile */
+@media only screen and (max-width: 768px) {
+  .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
+      min-height: 300px; /* Reduce height on small screens */
+  }
+}
+
+/* Ensure text is readable on small screens */
+@media only screen and (max-width: 768px) {
+  body {
+      font-size: 14px;
+  }
+}
