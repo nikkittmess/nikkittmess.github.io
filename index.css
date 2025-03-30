@@ -7,12 +7,15 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif;}
 
 body, html {
   height: 100%;
-  color: #1f1f1f;
+  color: #000000;
   line-height: 1.8;
 }
 
 /*---------------------------------------------------------------------------------------------------------------------------------------------------*/
-
+.GreenColor{
+  color: #3bb371;
+}
+/*---------------------------------------------------------------------------------------------------------------------------------------------------*/
 /* Create a Parallax Effect */
 .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
   background-attachment: scroll;
@@ -23,7 +26,7 @@ body, html {
 
 /* Parallax background for bgimg-1 */
 .bgimg-1 {
-    background-image: url('ASSETS/homepage.jpg'); /* Replace with your image path */
+    background-image: url('ASSETS/HomePage.png'); /* Replace with your image path */
     background-size: cover;
     background-position: center;
     height: 100vh; /* Full screen height */
@@ -62,6 +65,19 @@ body, html {
   .bgimg-1, .bgimg-2, .bgimg-3, bgimg-4{
     background-attachment: scroll;
     min-height: 400px;
+  }
+
+  .bgimg-1{
+    background-image: url('ASSETS/PhoneHome.png'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+  .bgimg-2,.bgimg-2,.bgimg-3,.bgimg-4{
+    background-image: url('ASSETS/PhoneUsual.png'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
   }
 }
 
