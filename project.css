@@ -1,0 +1,56 @@
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 columns */
+    grid-template-rows: repeat(2, auto); /* 2 rows */
+    gap: 20px; /* Space between items */
+    padding: 20px;
+    max-width: 900px; /* Prevents over-expansion */
+    margin-left:175; /* Centers the grid */
+  }
+  
+  /* Grid Items (Clickable Images) */
+  .grid-item {
+    overflow: hidden;
+    border-radius: 10px;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  /* Clickable Images */
+  .grid-item img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 10px;
+    display: block;
+    cursor: pointer;
+  }
+  
+  /* Hover Effect */
+  .grid-item:hover {
+    transform: scale(1.05); /* Slight zoom effect */
+  }
+  
+  /* Mobile Layout (2x2 Grid) */
+  @media only screen and (max-width: 768px) {
+    .grid-container {
+        grid-template-columns: repeat(2, 1fr); /* 2 columns */
+        grid-template-rows: repeat(2, auto); /* 2 rows */
+        gap: 10px;
+        padding-top:120px;
+        margin:0px;
+        
+    }
+    .grid-item{
+      width:100%;
+      height: auto;
+    }
+    
+  }
+
+  @media only screen and (max-width: 768px) {
+    .dontdisplay
+    {
+      display: none;
+    }
+    }

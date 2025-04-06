@@ -61,9 +61,9 @@ body, html {
 .w3-hover-opacity {cursor: pointer;}
 
 /* Turn off parallax scrolling for tablets and phones */
-@media only screen and (max-device-width: 1600px) {
+@media only screen and (max-device-width: 768px) {
   .bgimg-1, .bgimg-2, .bgimg-3, bgimg-4{
-    background-attachment: scroll;
+    background-attachment: fixed;
     min-height: 400px;
   }
 
@@ -74,7 +74,7 @@ body, html {
     height: 100vh;
   }
   .bgimg-2,.bgimg-2,.bgimg-3,.bgimg-4{
-    background-image: url('ASSETS/PhoneUsual.png'); /* Replace with your image path */
+    background-image: url('ASSETS/PHONE.jpg'); /* Replace with your image path */
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -83,35 +83,11 @@ body, html {
 
 /*---------------------------------------------------------------------------------------------------------------------------------------------------*/
 
-/* Grid container styling */
-.grid{
-  display: grid;
-  grid-template-columns: repeat(3, 1fr); /* 3 equal columns */
-  grid-template-rows: repeat(3, auto);  /* Adjust rows based on content */
-  gap: 25px;                            /* Space between grid items */
-  padding: 10px;                        /* Padding around the grid */
-  max-width: 1700px;                     /* Optional: limit overall grid width */
-  margin: auto;                         /* Center the grid on the page */
-}
 
-/* Grid item styling */
-.grid-item {
-  overflow: hidden;                     /* Ensures images fit properly */
-  border: 2px solid #ddd;               /* Optional: Add border around items */
-  border-radius: 5px;  
-  cursor: pointer;  
-  transition: transform 0.3s ease;               /* Optional: Add rounded corners */
-}
-/* Image styling */
-.grid-item img {
-  display: block;
-  width: 100%;                          /* Ensure images fill grid cells */
-  height: auto;                         /* Maintain aspect ratio */
-  object-fit: cover;                    /* Crop images to fit neatly */
-}
 
 /*---------------------------------------------------------------------------------------------------------------------------------------------------*/
 
+}
 .padding1{
 
   padding-top: 20px;
@@ -119,33 +95,8 @@ body, html {
 
 /*---------------------------------------------------------------------------------------------------------------------------------------------------*/
 
-/* Ensure navbar buttons stack properly on mobile */
-@media only screen and (max-width: 768px) {
-  .w3-bar-item {
-      display: block;
-      text-align: center;
-      padding: 10px;
-  }
-  
-  /* Fix menu for small screens */
-  #navDemo {
-      display: none;
-  }
-  
-  .w3-top {
-      position: fixed;
-      width: 100%;
-      background-color: rgba(0, 0, 0, 0.8);
-  }
-}
 
-/* Adjust grid layout for smaller screens */
-@media only screen and (max-width: 414px) {
-  .grid {
-      grid-template-columns: 1fr; /* Single column for small screens */
-      gap: 15px;
-  }
-}
+
 
 /* Ensure parallax backgrounds fit mobile */
 @media only screen and (max-width: 414px) {
@@ -163,3 +114,14 @@ body, html {
 
 /*---------------------------------------------------------------------------------------------------------------------------------------------------*/
 
+
+.NavBar{
+  display: block;
+}
+
+@media only screen and(max-width:768px)
+{
+  .NavBar{
+    display: none;
+  }
+}
