@@ -140,7 +140,7 @@ body, html {
 }
 
 /* Adjust grid layout for smaller screens */
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 414px) {
   .grid {
       grid-template-columns: 1fr; /* Single column for small screens */
       gap: 15px;
@@ -148,7 +148,7 @@ body, html {
 }
 
 /* Ensure parallax backgrounds fit mobile */
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 414px) {
   .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
       min-height: 300px; /* Reduce height on small screens */
   }
