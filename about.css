@@ -161,6 +161,38 @@
     text-align: left;
   }
 
+  /* Add mobile styles at the bottom */
+@media only screen and (max-width: 768px) {
+  .v1_2 {
+    height: auto;
+    padding: 20px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .v1, .v2, .v3, .v4, .v5, 
+  .v1_71, .v3_204, .v1_75, .v2_4, .v5_1 {
+    position: relative;
+    top: auto;
+    left: auto;
+    width: 100%;
+    margin: 10px 0;
+    font-size: 18px;
+  }
+  
+  .v6, .v7 {
+    display: none; /* Hide rotated links on mobile */
+  }
+  
+  /* Add mobile-specific links */
+  .mobile-links {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px 0;
+  }
+}
   
   
 

@@ -31,22 +31,22 @@
     transform: scale(1.05); /* Slight zoom effect */
   }
   
-  /* Mobile Layout (2x2 Grid) */
-  @media only screen and (max-width: 768px) {
-    .grid-container {
-        grid-template-columns: repeat(2, 1fr); /* 2 columns */
-        grid-template-rows: repeat(2, auto); /* 2 rows */
-        gap: 10px;
-        padding-top:120px;
-        margin:0px;
-        
-    }
-    .grid-item{
-      width:100%;
-      height: auto;
-    }
-    
+  /* Improve mobile grid spacing */
+@media only screen and (max-width: 768px) {
+  .grid-container {
+    padding-top: 80px; /* Adjusted for navbar */
+    margin: 0 auto;
+    width: 90%;
   }
+  
+  .grid-item {
+    margin-bottom: 15px;
+  }
+  
+  .w3-large.w3-center.w3-text-grey {
+    padding-top: 20px;
+  }
+}
 
   @media only screen and (max-width: 768px) {
     .dontdisplay

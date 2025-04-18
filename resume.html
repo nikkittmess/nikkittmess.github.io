@@ -1,21 +1,46 @@
-
-<script>
-
-
-    let StopPeeking="mesiliy";
-        
-        const password = StopPeeking; // Set the correct password
-        const input = prompt("Enter the password:"); // Get input from user
-        
-        if (input === password) { // Check if input matches password
-          alert("Access granted!");
-          window.location.href = "ASSETS/RESUME.pdf";
-    
-           // If the password is correct
-        } else {
-          alert("Access denied."); // If the password is incorrect
-          window.location.href = "index.html";
+ <!-- resume.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Resume Access</title>
+    <style>
+        .password-form {
+            margin: 100px auto;
+            width: 300px;
+            padding: 20px;
+            background: rgba(0,0,0,0.7);
+            color: white;
+            text-align: center;
         }
-    
-    
+        input, button {
+            margin: 10px 0;
+            padding: 8px;
+            width: 100%;
+        }
+    </style>
+</head>
+<body style="background: black;">
+    <div class="password-form" id="form">
+        <h3>Enter Password to Access Resume</h3>
+        <input type="password" id="passwordInput">
+        <button onclick="checkPassword()">Submit</button>
+        <p id="error" style="color: red; display: none;">Incorrect password</p>
+    </div>
+
+    <script>
+        function checkPassword() {
+            const hash = "9a1c7a3e1e5a5a1f0d9a3b9f5b5c5d5e"; // MD5 hash of "mesiliy"
+            const input = document.getElementById('passwordInput').value;
+            const md5Input = CryptoJS.MD5(input).toString();
+            
+            if (md5Input === hash) {
+                window.location.href = "ASSETS/RESUME.pdf";
+            } else {
+              alert("Access denied."); // If the password is incorrect
+              window.location.href = "index.html";
+            }
+        }
     </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+</body>
+</html>

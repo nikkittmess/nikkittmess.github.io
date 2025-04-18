@@ -60,24 +60,27 @@ body, html {
 .w3-wide {letter-spacing: 10px;}
 .w3-hover-opacity {cursor: pointer;}
 
-/* Turn off parallax scrolling for tablets and phones */
-@media only screen and (max-device-width: 768px) {
-  .bgimg-1, .bgimg-2, .bgimg-3,.bgimg-4{
-    background-attachment: fixed;
-    min-height: 400px;
+/* Update the NavBar media query */
+@media only screen and (max-width: 768px) {
+  .NavBar {
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
   }
-
-  .bgimg-1{
-    background-image: url('ASSETS/PhoneHome.png'); /* Replace with your image path */
-    background-size: cover;
-    background-position: center;
-    height: 100vh;
+  
+  .NavBar a {
+    padding: 8px 5px;
+    font-size: 14px;
   }
-  .bgimg-2,.bgimg-2,.bgimg-3,.bgimg-4{
-    background-image: url('ASSETS/PHONE.jpg'); /* Replace with your image path */
-    background-size: cover;
-    background-position: center;
-    height: 100vh;
+  
+  /* Adjust parallax heights */
+  .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
+    padding-top: 60px; /* Make space for navbar */
+    height: auto;
+    min-height: 100vh;
   }
 }
 
@@ -90,24 +93,6 @@ body, html {
 
 /*---------------------------------------------------------------------------------------------------------------------------------------------------*/
 
-
-
-
-/* Ensure parallax backgrounds fit mobile */
-@media only screen and (max-width: 414px) {
-  .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
-      min-height: 300px; /* Reduce height on small screens */
-  }
-}
-
-/* Ensure text is readable on small screens */
-@media only screen and (max-width: 768px) {
-  body {
-      font-size: 14px;
-  }
-}
-
-/*---------------------------------------------------------------------------------------------------------------------------------------------------*/
 
 
 .NavBar{
