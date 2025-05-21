@@ -1,46 +1,160 @@
- <!-- resume.html -->
 <!DOCTYPE html>
 <html>
 <head>
     <title>Resume Access</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
-        .password-form {
-            margin: 100px auto;
-            width: 300px;
+        body {
+            background-color: #121212;
+            color: #e0e0e0;
+            font-family: 'Inter', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
             padding: 20px;
-            background: rgba(0,0,0,0.7);
-            color: white;
-            text-align: center;
         }
-        input, button {
-            margin: 10px 0;
-            padding: 8px;
+        .auth-container {
+            background-color: #1e1e1e;
+            padding: 30px;
+            border-radius: 8px;
+            border: 1px solid #3bb371;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+            text-align: center;
+            max-width: 400px;
             width: 100%;
+        }
+        h2 {
+            color: #3bb371;
+            margin-bottom: 20px;
+        }
+        input {
+            width: 100%;
+            padding: 8px;
+            margin: 15px;
+            background-color: #2d2d2d;
+            border: 1px solid #444;
+            color: #fff;
+            border-radius: 6px;
+            font-size: 1rem;
+        }
+        button {
+            background-color: #3bb371;
+            color: #121212;
+            border: none;
+            padding: 12px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: bold;
+            width: 100%;
+            font-size: 1rem;
+            transition: background-color 0.2s;
+        }
+        button:hover {
+            background-color: #2e9b63;
+        }
+        #error {
+            color: #ff6b6b;
+            margin-top: 15px;
+            display: none;
+        }
+        .attempt-counter {
+            color: #ff9800;
+            font-size: 0.9rem;
+            margin-top: 10px;
+            display: none;
         }
     </style>
 </head>
-<body style="background: black;">
-    <div class="password-form" id="form">
-        <h3>Enter Password to Access Resume</h3>
-        <input type="password" id="passwordInput">
-        <button onclick="checkPassword()">Submit</button>
-        <p id="error" style="color: red; display: none;">Incorrect password</p>
+<body>
+    <div class="auth-container">
+        <h2>Resume Authentication</h2>
+        <p>Enter the secure passphrase to continue:</p>
+        
+        <input type="password" id="passwordInput" placeholder="Secure passphrase" autocomplete="off">
+        <button onclick="checkAccess()">Verify</button>
+        <p id="error">Invalid passphrase</p>
+        <p id="attemptCounter" class="attempt-counter"></p>
     </div>
 
     <script>
-        function checkPassword() {
-            const hash = "9a1c7a3e1e5a5a1f0d9a3b9f5b5c5d5e"; // MD5 hash of "mesiliy"
-            const input = document.getElementById('passwordInput').value;
-            const md5Input = CryptoJS.MD5(input).toString();
+        // Obfuscated password check
+        function checkAccess() {
+            const errorElement = document.getElementById('error');
+            const attemptCounter = document.getElementById('attemptCounter');
+            errorElement.style.display = 'none';
             
-            if (md5Input === hash) {
-                window.location.href = "ASSETS/RESUME.pdf";
+            // Get and normalize user input
+            const userInput = document.getElementById('passwordInput').value.trim().toLowerCase();
+            
+            if (!userInput) {
+                showError("Please enter the passphrase");
+                return;
+            }
+            
+            // Increment attempt counter
+            if (!window.attempts) window.attempts = 0;
+            window.attempts++;
+            
+            // Obfuscated password verification
+            const passParts = [
+                String.fromCharCode(109), 
+                String.fromCharCode(101), 
+                String.fromCharCode(115), 
+                String.fromCharCode(105), 
+                String.fromCharCode(108), 
+                String.fromCharCode(105), 
+                String.fromCharCode(121)  
+            ];
+            const realPass = passParts.join('');
+            
+            if (userInput === realPass) {
+                // Successful authentication - redirect with token
+                const token = btoa(Date.now() + '|' + realPass + '|' + Math.random().toString(36).substr(2));
+                window.location.href = `ASSETS/RESUME.pdf?token=${encodeURIComponent(token)}`;
             } else {
-              alert("Access denied."); // If the password is incorrect
-              window.location.href = "index.html";
+                // Failed attempt
+                showError("Invalid passphrase");
+                document.getElementById('passwordInput').value = '';
+                
+                // Show attempt counter after 2 failed attempts
+                if (window.attempts >= 2) {
+                    const remaining = Math.max(0, 5 - window.attempts);
+                    attemptCounter.textContent = `Attempts remaining: ${remaining}`;
+                    attemptCounter.style.display = 'block';
+                }
+                
+                // Lock after 5 attempts
+                if (window.attempts >= 5) {
+                    attemptCounter.textContent = "Too many attempts. Try again later.";
+                    document.getElementById('passwordInput').disabled = true;
+                    document.querySelector('button').disabled = true;
+                    
+                    // Auto-reset after 5 minutes
+                    setTimeout(() => {
+                        window.attempts = 0;
+                        document.getElementById('passwordInput').disabled = false;
+                        document.querySelector('button').disabled = false;
+                        attemptCounter.style.display = 'none';
+                        errorElement.style.display = 'none';
+                    }, 300000); // 5 minutes
+                }
             }
         }
+        
+        function showError(message) {
+            const errorElement = document.getElementById('error');
+            errorElement.textContent = message;
+            errorElement.style.display = 'block';
+        }
+        
+        // Allow Enter key to submit
+        document.getElementById('passwordInput').addEventListener('keyup', function(e) {
+            if (e.key === 'Enter') {
+                checkAccess();
+            }
+        });
     </script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
 </body>
 </html>
