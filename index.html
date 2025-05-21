@@ -1,30 +1,82 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>NIKKITT MESILIY'S WEBSITE</title>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <link rel="stylesheet" type="text/css" href="index.css"/>
-    <script src="script.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name | AI Legal-Tech Developer</title>
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
-    
 <body>
-    
-    <div class="NavBar w3-top">
-        <a href="index.html" class="glowing-text w3-bar-item w3-button w3-large w3-hover-text-grey w3-hover-black w3-text-white"><i class="fa fa-home"></i> HOME</a>
-        <a href="about.html" class="glowing-text w3-bar-item w3-button w3-large w3-hover-text-grey w3-hover-black w3-text-white"><i class="fa fa-user"></i> ABOUT</a>
-        <a href="projects.html" class="glowing-text w3-bar-item w3-button w3-large w3-hover-text-grey w3-hover-black w3-text-white"><i class="fa fa-th"></i> PROJECTS</a>
-        <a href="resume.html" class="glowing-text w3-bar-item w3-button w3-large w3-right w3-hover-text-grey w3-hover-black w3-text-white"><i class="fa fa-envelope"></i> Resume</a>
-    </div>
-  
+    <!-- Navigation -->
+    <nav>
+        <div class="container">
+            <a href="#" class="logo">Nikkitt</a>
+            <div class="nav-links">
+                <a href="#projects">Projects</a>
+                <a href="#about">About</a>
+                <a href="#contact">Contact</a>
+            </div>
+            <button class="hamburger">
+                <i class="fas fa-bars"></i>
+            </button>
+        </div>
+    </nav>
 
-    <!-- First Parallax Image with Logo Text -->
-    <div class="bgimg-1 w3-display-container" id="home">
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <h1>AI Developer <span>|</span> Tech Enthusiast</h1>
+            <p class="tagline">Building AI-powered solutions</p>
+            <div class="cta-buttons">
+                <a href="#projects" class="btn">View Projects</a>
+                <a href="#contact" class="btn-outline">Contact Me</a>
+            </div>
+        </div>
+    </section>
 
-    <!-- INDEX PAGE STUFF GOES HERE -->
+    <!-- Projects Preview -->
+    <section id="projects" class="projects">
+        <div class="container">
+            <h2>Featured Project</h2>
+            <div class="project-card">
+                <div class="project-image">
+                    <img src="https://via.placeholder.com/600x400" alt="Legal Chatbot Demo">
+                </div>
+                <div class="project-details">
+                    <h3>AI Legal Assistant</h3>
+                    <p>A chatbot that scrapes Indian legal sources & answers queries using LLMs</p>
+                    <div class="tech-stack">
+                        <span>Python</span>
+                        <span>LLMs</span>
+                        <span>Web Scraping</span>
+                    </div>
+                    <a href="#" class="btn">View Case Study</a>
+                </div>
+            </div>
+        </div>
+    </section>
 
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>© 2020 Nikkitt Mesiliy. All rights reserved.</p>
+            <div class="social-links">
+                <a href="#"><i class="fab fa-github"></i></a>
+                <a href="#"><i class="fab fa-linkedin"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+            </div>
+        </div>
+    </footer>
 
-    </div>
+    <script>
+        // Mobile menu toggle
+        const hamburger = document.querySelector('.hamburger');
+        const navLinks = document.querySelector('.nav-links');
 
+        hamburger.addEventListener('click', () => {
+            navLinks.classList.toggle('active');
+        });
+    </script>
 </body>
 </html>
