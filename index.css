@@ -115,6 +115,7 @@ nav .container {
 .btn, .btn-outline {
     padding: 12px 24px;
     border-radius: 5px;
+
     text-decoration: none;
     font-weight: 500;
     transition: var(--transition);
@@ -219,6 +220,7 @@ nav .container {
 }
 
 .project-card {
+    position: relative;
     background: var(--white);
     border-radius: 10px;
     overflow: hidden;
