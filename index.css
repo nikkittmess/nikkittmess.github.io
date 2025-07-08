@@ -409,3 +409,15 @@ section {
 .padding0 {
     padding-top: 20px;
 }
+
+.status-indicator {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    background-color: limegreen;
+    border-radius: 50%;
+    margin-left: 8px;
+    margin-bottom: 1px;
+    box-shadow: 0 0 6px 2px limegreen;
+}
+
