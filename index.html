@@ -533,6 +533,12 @@
   .toolkit-title { font-family: 'Syne', sans-serif; font-weight: 700; color: var(--white); font-size: 1rem; margin-bottom: 1rem; letter-spacing: -0.01em; }
   .toolkit-badges { display: flex; flex-wrap: wrap; gap: 0.5rem; }
 
+  /* TECH EXPERIENCE */
+  #research { padding: 8rem 4rem; }
+  .toolkit-grid.two-col { grid-template-columns: repeat(2, 1fr); }
+  .toolkit-meta { font-size: 0.78rem; color: var(--muted); line-height: 1.8; margin-bottom: 1rem; }
+  .toolkit-meta strong { color: var(--accent); font-weight: 400; }
+
   /* CONTACT */
   #contact {
     padding: 8rem 4rem;
@@ -629,6 +635,8 @@
     #sales { padding: 5rem 2rem; }
     .toolkit-grid { grid-template-columns: 1fr; }
     .stats-bar.sales-stats { padding: 0; }
+    #research { padding: 5rem 2rem; }
+    .toolkit-grid.two-col { grid-template-columns: 1fr; }
     #contact { padding: 5rem 2rem; }
     footer { padding: 2rem; flex-direction: column; gap: 1rem; text-align: center; }
     .stats-bar { padding: 1rem 2rem; flex-wrap: wrap; }
@@ -864,6 +872,76 @@
 
 <div class="glow-divider"></div>
 
+<!-- TECH EXPERIENCE -->
+<section id="research">
+  <div class="section-label reveal">Technical Experience</div>
+  <h2 class="section-title reveal reveal-delay-1">Building with<br>data &amp; AI.</h2>
+  <p class="sales-intro reveal reveal-delay-2">I've worked in an applied AI research lab building <strong>computer vision models</strong>, backed by a B.Tech in <strong>Electronics &amp; Computer Engineering (AI &amp; ML)</strong> and hands-on projects across machine learning, deep learning, and LLMs. I like turning messy data into models and insights that people can actually use.</p>
+
+  <div class="stats-bar sales-stats">
+    <div class="stat reveal">
+      <div class="stat-num">70%+</div>
+      <div class="stat-label">Object Detection Accuracy</div>
+    </div>
+    <div class="stat reveal reveal-delay-1">
+      <div class="stat-num">4</div>
+      <div class="stat-label">AI &amp; ML Projects Built</div>
+    </div>
+    <div class="stat reveal reveal-delay-2">
+      <div class="stat-num">8.87</div>
+      <div class="stat-label">B.Tech CGPA (out of 10)</div>
+    </div>
+  </div>
+
+  <div class="timeline sales-timeline">
+    <div class="timeline-item reveal">
+      <div class="timeline-period">Sep 2024 — Jan 2025</div>
+      <div class="timeline-role">Research Intern</div>
+      <div class="timeline-company">BrainAI Lab · Daegu, South Korea</div>
+      <ul class="timeline-list">
+        <li>Developed computer vision object detection models using Python, OpenCV, and deep learning, achieving 70%+ accuracy.</li>
+        <li>Improved model performance through data preprocessing and annotation refinement.</li>
+        <li>Collaborated with cross-functional research teams to coordinate project deliverables and meet milestones on schedule.</li>
+        <li>Presented research findings and project updates to supervisors and stakeholders.</li>
+      </ul>
+      <div class="project-tech">
+        <span class="tech-badge">Python</span>
+        <span class="tech-badge">OpenCV</span>
+        <span class="tech-badge">Deep Learning</span>
+        <span class="tech-badge">Computer Vision</span>
+        <span class="tech-badge">Object Detection</span>
+        <span class="tech-badge">Data Preprocessing</span>
+        <span class="tech-badge">Annotation</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="sales-subhead">
+    <div class="section-label reveal">Education</div>
+    <h2 class="section-title reveal reveal-delay-1" style="font-size: clamp(1.5rem, 3vw, 2.2rem);">Where I learned it.</h2>
+  </div>
+  <div class="toolkit-grid two-col">
+    <div class="toolkit-card reveal">
+      <div class="toolkit-icon">🎓</div>
+      <div class="toolkit-title">B.Tech, Electronics &amp; Computer Engineering</div>
+      <div class="toolkit-meta">Specialization in <strong>AI &amp; ML</strong><br>Christ University, Bangalore, India · 2021 — 2026<br>CGPA: <strong>8.87 / 10</strong></div>
+      <div class="toolkit-badges">
+        <span class="tech-badge">Machine Learning</span><span class="tech-badge">Deep Learning</span><span class="tech-badge">Data Structures &amp; Algorithms</span>
+      </div>
+    </div>
+    <div class="toolkit-card reveal reveal-delay-1">
+      <div class="toolkit-icon">🌏</div>
+      <div class="toolkit-title">B.Sc Engineering, Electronics</div>
+      <div class="toolkit-meta">Kyungpook National University, Daegu, South Korea · 2023 — 2025<br>Score: <strong>87.8%</strong></div>
+      <div class="toolkit-badges">
+        <span class="tech-badge">International Exchange</span><span class="tech-badge">Electronics</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="glow-divider"></div>
+
 <!-- SALES -->
 <section id="sales">
   <div class="section-label reveal">Sales & Business Development</div>
@@ -986,7 +1064,7 @@
       <div style="font-size: 2rem; margin-bottom: 1.2rem;">🤖</div>
       <div style="font-family: 'Syne', sans-serif; font-weight: 700; color: var(--white); font-size: 1rem; margin-bottom: 1rem; letter-spacing: -0.01em;">AI & Data Science</div>
       <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
-        <span class="tech-badge">Machine Learning</span><span class="tech-badge">Data Analysis</span><span class="tech-badge">Data Visualization</span>
+        <span class="tech-badge">Machine Learning</span><span class="tech-badge">Deep Learning</span><span class="tech-badge">Computer Vision</span><span class="tech-badge">NLP</span><span class="tech-badge">LLMs</span><span class="tech-badge">Generative AI</span><span class="tech-badge">Prompt Engineering</span><span class="tech-badge">Data Analysis</span><span class="tech-badge">EDA</span><span class="tech-badge">Feature Engineering</span><span class="tech-badge">Predictive Analytics</span><span class="tech-badge">Data Visualization</span>
       </div>
     </div>
 
@@ -994,7 +1072,7 @@
       <div style="font-size: 2rem; margin-bottom: 1.2rem;">🛠️</div>
       <div style="font-family: 'Syne', sans-serif; font-weight: 700; color: var(--white); font-size: 1rem; margin-bottom: 1rem; letter-spacing: -0.01em;">Tools & Technologies</div>
       <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
-        <span class="tech-badge">Git</span><span class="tech-badge">HuggingFace</span><span class="tech-badge">Power BI</span><span class="tech-badge">Tableau</span><span class="tech-badge">TensorFlow</span><span class="tech-badge">Apollo</span>
+        <span class="tech-badge">Git</span><span class="tech-badge">HuggingFace</span><span class="tech-badge">Power BI</span><span class="tech-badge">Tableau</span><span class="tech-badge">TensorFlow</span><span class="tech-badge">Keras</span><span class="tech-badge">Scikit-learn</span><span class="tech-badge">OpenCV</span><span class="tech-badge">Pandas</span><span class="tech-badge">NumPy</span><span class="tech-badge">XGBoost</span><span class="tech-badge">GitHub</span><span class="tech-badge">Jupyter</span><span class="tech-badge">REST APIs</span><span class="tech-badge">Groq API</span><span class="tech-badge">Gemini API</span><span class="tech-badge">Apollo</span>
       </div>
     </div>
 
